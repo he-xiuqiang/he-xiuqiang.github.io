@@ -21,8 +21,10 @@ Xiuqiang He is now a Distinguished Professor, at the School of Big Data and Inte
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: &nbsp; I will serve on the program committee of IJCAI 2025 as a SPC Member.
+- *2025.01*: &nbsp; I will serve on the program committee of SIGIR 2025 as a PC Member.
+- *2025.01*: &nbsp; I will serve on the program committee of KDD 2025 ADS track as a PC member.
+- *2025.01*: &nbsp; I will serve on the program committee of ECMLPKDD 2025 as a PC member.
 
 # 📝 Publications 
 
@@ -45,9 +47,10 @@ Xiuqiang He is now a Distinguished Professor, at the School of Big Data and Inte
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2006.07 - 2010.07*, Ph.D, Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST)
+- *2003.09 - 2006.07*, Master, Computer Science and Technology, Xi'an Jiaotong University
+- *1999.09 - 2003.07*, Bachelor, Computer Science and Technology, Xi'an Jiaotong University
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.01 - 2025.01*, senior director & principal expert researcher, intelligent platform center, FiT, Tencent
+- *2010.09 - 2021.12*, director & technolgy expert & senior researcher, recommendation & search Lab, Huawei
