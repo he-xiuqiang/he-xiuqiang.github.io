@@ -51,6 +51,6 @@ Xiuqiang He is now a Distinguished Professor, at the School of Big Data and Inte
 - *2003.09 - 2006.07*, Master, Computer Science and Technology, Xi'an Jiaotong University
 - *1999.09 - 2003.07*, Bachelor, Computer Science and Technology, Xi'an Jiaotong University
 
-# 💬 Invited Talks
-- *2022.01 - 2025.01*, senior director & principal expert researcher, intelligent platform center, FiT, Tencent
-- *2010.09 - 2021.12*, director & technolgy expert & senior researcher, recommendation & search Lab, Huawei
+# 💻 Industry Experiences
+- *2022.01 - 2025.01*, Senior director, Intelligent Application Center, FiT, Tencent
+- *2010.09 - 2021.12*, Director，Recommendation and search Lab, Huawei Noah's Ark Lab
