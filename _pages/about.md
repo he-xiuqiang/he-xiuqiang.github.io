@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Xiuqiang He is now a Distinguished Professor, at the School of Big Data and Internet, ShenZhen Technology University (SZTU).  His research intersts include recommendation System, information Retrieval, online marketing and advertisement, and real-world applications with artificial intelligence techniques. Before joining SZTU, He was a senior director of Finance Technology (FiT), Tencent from 2022 to 2024, and before that, He servers as the director of the Recommendation and Search Lab at Huawei Noah's Ark Laboratory. He obtained his Ph.D. from the departement of computer science and engineering, Hong Kong University of Science and Technology (HKUST) in 2010, and his Master's degree and Bachelor's degree both from Xi’an JiaoTong University in 2006 and 2003. He has published over 100 research papers at top international conferences and journals, and my publications have over 9,000 citations on Google Scholar. He ias one of the authors of DeepFM, the most widely used click-through rate prediction algorithm in industry. He won the Best Paper Award at DLP-KDD 2021. He also holds over 60 families of domestic or international patents. 
 
 
 # 🔥 News
@@ -53,6 +51,3 @@ My research interest includes neural machine translation and computer vision. I 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
