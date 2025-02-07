@@ -67,8 +67,7 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ***Best paper award***, DLP-KDD 2021
 
 # 📖 Educations
 - *2006.07 - 2010.07*, Ph.D, Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST)
