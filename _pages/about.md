@@ -71,11 +71,6 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 # 🧑‍💻 Services
 - *** under constuction ***
 
-# 🎖 Honors and Awards
-- ***Best paper award***, DLP-KDD，2021
-- ***High-level overseas Talents in Shenzhen（Category C）***, 2016
-- ***Huawei Individual Gold Medal Awards***, 2012, 2015
-
 # 📖 Educations
 - *2006.07 - 2010.07*, Ph.D, Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST)
 - *2003.09 - 2006.07*, Master, Computer Science and Technology, Xi'an Jiaotong University
