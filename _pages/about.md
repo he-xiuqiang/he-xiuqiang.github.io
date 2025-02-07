@@ -54,3 +54,4 @@ Xiuqiang He is now a Distinguished Professor, at the School of Big Data and Inte
 # 💻 Industry Experiences
 - *2022.01 - 2025.01*, Senior director, Intelligent Application Center, FiT, Tencent
 - *2010.09 - 2021.12*, Director，Recommendation and search Lab, Huawei Noah's Ark Lab
+- *2018.05 - 2019.07*, Expert, PCG, Tencent
