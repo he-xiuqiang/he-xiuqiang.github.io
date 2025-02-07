@@ -28,10 +28,10 @@ Xiuqiang He is soon to join the School of Big Data and Internet at Shenzhen Tech
 
 # 📝 Publications 
 **Year 2025**
-- *A Predict-Then-Optimize Customer Allocation Framework for Online Fund Recommendation*, Xing Tang , Yunpeng Weng, Fuyuan Lyu, Dugang Liu, and **Xiuqiang He**, Database Systems for Advanced Applications - 30th International Conference, **DASFAA 2025**
-- *Policy-aware Reward Modeling with Uncertainty-Gradient based Data Augmentation*, Zexu Sun, Yiju Guo, Yankai Lin, Xu Chen, Qi Qi, Xing Tang , **Xiuqiang He**, and Ji-Rong Wen, The Thirteenth International Conference on Learning Representations, **ICLR 2025**
-- *Scenario Shared Instance Modeling for Click-through Rate Prediction*，Dugang Liu, Chaohua Yang, Yuwen Fu, Xing Tang, Gongfu Li, Fuyuan Lyu, **Xiuqiang He**, and Zhong Ming，Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2025**
-- *Fusion Matters: Learning Fusion in Deep Click-through Rate Prediction Models*, Kexin Zhang, Fuyuan Lyu, Xing Tang, Dugang Liu, Chen Ma, Kaize Ding, **Xiuqiang He**, and Xue Liu, Proceedings of the 18th ACM International Conference on Web Search and Data Mining, **WSDM 2025**
+- ***Policy-aware Reward Modeling with Uncertainty-Gradient based Data Augmentation***, Zexu Sun, Yiju Guo, Yankai Lin, Xu Chen, Qi Qi, Xing Tang , **Xiuqiang He**, and Ji-Rong Wen, The Thirteenth International Conference on Learning Representations, **ICLR 2025**
+- ***Scenario Shared Instance Modeling for Click-through Rate Prediction***，Dugang Liu, Chaohua Yang, Yuwen Fu, Xing Tang, Gongfu Li, Fuyuan Lyu, **Xiuqiang He**, and Zhong Ming，Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2025**
+- ***Fusion Matters: Learning Fusion in Deep Click-through Rate Prediction Models***, Kexin Zhang, Fuyuan Lyu, Xing Tang, Dugang Liu, Chen Ma, Kaize Ding, **Xiuqiang He**, and Xue Liu, Proceedings of the 18th ACM International Conference on Web Search and Data Mining, **WSDM 2025**
+- ***A Predict-Then-Optimize Customer Allocation Framework for Online Fund Recommendation***, Xing Tang , Yunpeng Weng, Fuyuan Lyu, Dugang Liu, and **Xiuqiang He**, Database Systems for Advanced Applications - 30th International Conference, **DASFAA 2025**
   
 **Year 2024**
 
