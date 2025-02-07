@@ -53,5 +53,5 @@ Xiuqiang He is soon to join the School of Big Data and Internet at Shenzhen Tech
 
 # 💻 Industry Experiences
 - *2022.01 - 2025.01*, Senior director, Intelligent Application Center, FiT, Tencent
-- *2010.09 - 2021.12*, Director，Recommendation and search Lab, Huawei Noah's Ark Lab
-(I worked as an Expert at PCG, Tencent for a short time period during 2018-2019)
+- *2010.09 - 2021.12*, Director，Recommendation and search Lab, Noah's Ark Lab, Huawei
+- *notes*, I also worked as an Expert at PCG, Tencent for a short time period during 2018-2019
