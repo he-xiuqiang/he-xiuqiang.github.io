@@ -19,6 +19,7 @@ redirect_from:
 
 Xiuqiang He is soon to join the School of Big Data and Internet at Shenzhen Technology University (SZTU) as a Distinguished Professor.  His research intersts include recommendation systems, information retrieval, online marketing and advertisement, AI for science, and the application of artificial intelligence in real-world scenarios. Prior to his appointment at SZTU, he served as a senior in FiT, Tencent from 2022 to 2024. Before that, he was as the Director of the Recommendation and Search Lab at Huawei Noah's Ark Laboratory. He earned his Ph.D. from the Department of Computer science and Engineering at the Hong Kong University of Science and Technology (HKUST) in 2010. He obtained his Master's degree in 2006 and Bachelor's degree in 2003, both from Xi’an JiaoTong University (XJTU). He has published over 100 research papers in top-tier international conferences and journals, and his publications have amassed over 9,000 citations on Google Scholar. He is one of the authors of DeepFM, one of the most widely used click-through rate prediction algorithms in industry. He was honored with the Best Paper Award at DLP-KDD 2021. Additionally, he holds over 60 families of domestic or international patents. 
 
+💥 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exicting research opportunities, please don't hesitate to reach out to me via email.
 
 # 🔥 News
 - *2025.01*: &nbsp; I will serve on the program committee of IJCAI 2025 as a SPC Member.
@@ -66,10 +67,10 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 - ***Debiased recommendation with user feature balancing***, Mengyue Yang, Guohao Cai, Furui Liu, Jiarui Jin, Zhenhua Dong, **Xiuqiang He**, Jianye Hao, Weiqi Shao, Jun Wang, Xu Chen, ACM Transactions on Information Systems, **TOIS**
 
 # 👪 Group
-- *** under constuction ***
+- ** to be added **
 
 # 🧑‍💻 Services
-- *** under constuction ***
+- ** to be added **
 
 # 📖 Educations
 - *2006.07 - 2010.07*, Ph.D, Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST)
