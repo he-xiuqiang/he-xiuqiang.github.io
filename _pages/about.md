@@ -50,6 +50,19 @@ Proceedings of the ACM Web Conference 2024, **WebConf 2024**
 Proceedings of the 2024 SIAM International Conference on Data Mining, **SDM 2024**
 - ***MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems***, Dugang Liu, Chaohua Yang, Xing Tang, Yejing Wang, Fuyuan Lyu, Weihong Luo, **Xiuqiang He**, Zhong Ming, and Xiangyu Zhao, Proceedings of the 17th ACM International Conference on Web Search and Data Mining, **WSDM 2024**
 
+***Year 2023***
+
+- ***Towards Hybrid-grained Feature Interaction Selection for Deep Sparse Network***, Fuyuan Lyu, Xing Tang, Dugang Liu, Chen Ma, Weihong Luo, Liang Chen, **Xiuqiang He**, and Xue Liu, 37th Annual Conference on Neural Information Processing Systems, **NeurIPS 2023**
+- ***Prior-guided Accuracy-bias Tradeoff Learning for CTR Prediction in Multimedia Recommendation***, Dugang Liu, Yang Qiao, Xing Tang , Liang Chen, **Xiuqiang He**, and Zhong Ming, Proceedings of The 30th ACM International Conference on Multimedia, **MM 2023**
+- ***OptMSM: Optimizing Multi-Scenario Modeling for Click-Through Rate Prediction***, Xing Tang, Yang Qiao, Yuwen Fu, Fuyuan Lyu, Dugang Liu, and **Xiuqiang He**, European Conference on Machine Learning and Knowledge Discovery in Databases, **ECML-PKDD 2023**
+- ***Expected Transaction Value Optimization for Precise Marketing in FinTech Platforms***, Yunpeng Weng, Xing Tang , Liang Chen, Dugang Liu, and **Xiuqiang He**, International Workshop on Deep Learning Practice for High-Dimensional Sparse Data, **DLP@Recsys 2023**
+- ***Explicit Feature Interaction-aware Uplift Network for Online Marketing***, Dugang Liu, Xing Tang, Gao Han, Fuyuan Lyu, and **Xiuqiang He**, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2023**
+- ***Curriculum Modeling the Dependence among Targets with Multi-task Learning for Financial Marketing***, Yunpeng Weng, Xing Tang, Liang Chen, and **Xiuqiang He**, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2023**
+- ***DIWIFT: Discovering Instance-wise Influential Features for Tabular Data***, Dugang Liu, Pengxiang Cheng, Hong Zhu, Xing Tang, Yanyu Chen, Xiaoting Wang, Weike Pan, Zhong Ming, and **Xiuqiang He**, Proceedings of the ACM Web Conference 2023, **WebConf 2023**
+- ***Optimizing Feature Set for Click-Through Rate Prediction***, Fuyuan Lyu, Xing Tang , Dugang Liu, Liang Chen, **Xiuqiang He**, and Xue Liu, Proceedings of the ACM Web Conference 2023, **WebConf 2023**
+- ***Self-Sampling Training and Evaluation for the Accuracy-Bias Tradeoff in Recommendation***, Dugang Liu, Qiao Yang, Xing Tang , Liang Chen, **Xiuqiang He**, Weike Pan, and Zhong Ming
+Database Systems for Advanced Applications - 28th International Conference, **DASFAA 2023**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
