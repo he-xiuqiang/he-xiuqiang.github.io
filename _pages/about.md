@@ -49,6 +49,7 @@ Proceedings of the ACM Web Conference 2024, **WebConf 2024**
 - ***Treatment-Aware Hyperbolic Representation Learning for Causal Effect Estimation with Social Networks***, Ziqiang Cui, Xing Tang , Yang Qiao, Bowei He, Liang Chen, Xiuqiang He, and Chen Ma
 Proceedings of the 2024 SIAM International Conference on Data Mining, **SDM 2024**
 - ***MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems***, Dugang Liu, Chaohua Yang, Xing Tang, Yejing Wang, Fuyuan Lyu, Weihong Luo, **Xiuqiang He**, Zhong Ming, and Xiangyu Zhao, Proceedings of the 17th ACM International Conference on Web Search and Data Mining, **WSDM 2024**
+- ***Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects***, Yuheng Cheng, Ceyao Zhang, Zhengwen Zhang, Xiangrui Meng, Sirui Hong, Wenhao Li, Zihao Wang, Zekai Wang, Feng Yin, Junhua Zhao, **Xiuqiang He**, arXiv preprint arXiv:2401.03428
 
 ***Year 2023***
 
@@ -62,6 +63,7 @@ Proceedings of the 2024 SIAM International Conference on Data Mining, **SDM 2024
 - ***Optimizing Feature Set for Click-Through Rate Prediction***, Fuyuan Lyu, Xing Tang , Dugang Liu, Liang Chen, **Xiuqiang He**, and Xue Liu, Proceedings of the ACM Web Conference 2023, **WebConf 2023**
 - ***Self-Sampling Training and Evaluation for the Accuracy-Bias Tradeoff in Recommendation***, Dugang Liu, Qiao Yang, Xing Tang , Liang Chen, **Xiuqiang He**, Weike Pan, and Zhong Ming
 Database Systems for Advanced Applications - 28th International Conference, **DASFAA 2023**
+- ***Debiased recommendation with user feature balancing***, Mengyue Yang, Guohao Cai, Furui Liu, Jiarui Jin, Zhenhua Dong, **Xiuqiang He**, Jianye Hao, Weiqi Shao, Jun Wang, Xu Chen, ACM Transactions on Information Systems, **TOIS**
 
 
 # 🎖 Honors and Awards
