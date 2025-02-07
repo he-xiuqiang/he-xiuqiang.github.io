@@ -27,7 +27,8 @@ Xiuqiang He is soon to join the School of Big Data and Internet at Shenzhen Tech
 - *2025.01*: &nbsp; I will serve on the program committee of ECMLPKDD 2025 as a PC member.
 
 # 📝 Publications 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *2025*
+- [A Predict-Then-Optimize Customer Allocation Framework for Online Fund Recommendation], Xing Tang* , Yunpeng Weng*, Fuyuan Lyu*, Dugang Liu, and **Xiuqiang He**, Database Systems for Advanced Applications - 30th International Conference, DASFAA 2025 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
