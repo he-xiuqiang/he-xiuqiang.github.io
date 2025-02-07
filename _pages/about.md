@@ -35,6 +35,22 @@ Xiuqiang He is soon to join the School of Big Data and Internet at Shenzhen Tech
   
 **Year 2024**
 
+- ***OptDist: Learning Optimal Distribution for Customer Lifetime Value Prediction***, Yunpeng Weng, Xing Tang, Zhenhao Xu, Fuyuan Lyu, Dugang Liu, Zexu Sun, and **Xiuqiang He**, Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, **CIKM 2024**
+- ***End-to-End Cost-Effective Incentive Recommendation under Budget Constraint with Uplift Modeling***, Zexu Sun, Hao Yang, Dugang Liu#, Yunpeng Weng, Xing Tang, and **Xiuqiang He**, Proceedings of the 18th ACM Conference on Recommender Systems, **RecSys 2024**
+- ***Touch the Core: Exploring Task Dependence Among Hybrid Targets for Recommendation***, Xing Tang, Yang Qiao, Fuyuan Lyu, Dugang Liu, and **Xiuqiang He**, Proceedings of the 18th ACM Conference on Recommender Systems, **RecSys 2024**
+- ***Masked Random Noise for Communication-Efficient Federated Learning***, Shiwei Li, Yingyi Cheng, Haozhao Wang, Xing Tang , Shijie Xu, Weihong Luo, Yuhua Li, Dugang Liu, Xiuqiang He, and Ruixuan Li
+Proceedings of the 31st ACM International Conference on Multimedia, **MM 2024**
+- ***Rankability-enhanced Revenue Uplift Modeling Framework for Online Marketing***, Bowei He, Yunpeng Weng, Xing Tang , Ziqiang Cui, Zexu Sun, Liang Chen, **Xiuqiang He**, and Chen Ma, Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2024**
+- ***FedBAT: Communication-efficient Federated Learning via Learnable Binarization***, Shiwei Li, Wenchao Xu, Haozhao Wang, Xing Tang, Yining Qi, Shijie Xu, Weihong Luo, Yuhua Li, **Xiuqiang He**, and Ruixuan Li, 41st International Conference on Machine Learning, **ICML 2024**
+- ***AutoDCS: Automated Decision Chain Selection in Deep Recommender Systems***, Dugang Liu, Shenxian Xian, Yuhao Wu, Chaohua Yang, Xing Tang , Xiuqiang He, and Zhong Ming, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2024**
+- ***Towards Effective and Efficient Multi-valued Treatment Uplift Modeling in Online Marketing***, Zexun Sun, Dugang Liu, Xing Tang , Yunpeng Weng, and **Xiuqiang He**, Database Systems for Advanced Applications - 29th International Conference, **DASFAA 2024**
+- ***RecDCL: Dual Contrastive Learning for Recommendation***, Dan Zhang, Yangliao Geng, Wenwen Gong, Zhongang Qi, Zhiyu Chen, Xing Tang , Ying Shan, Yuxiao Dong, and Jie Tang
+Proceedings of the ACM Web Conference 2024, **WebConf 2024**
+- ***Treatment-Aware Hyperbolic Representation Learning for Causal Effect Estimation with Social Networks***, Ziqiang Cui, Xing Tang , Yang Qiao, Bowei He, Liang Chen, Xiuqiang He, and Chen Ma
+Proceedings of the 2024 SIAM International Conference on Data Mining, **SDM 2024**
+- ***MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems***, Dugang Liu, Chaohua Yang, Xing Tang, Yejing Wang, Fuyuan Lyu, Weihong Luo, **Xiuqiang He**, Zhong Ming, and Xiangyu Zhao, Proceedings of the 17th ACM International Conference on Web Search and Data Mining, **WSDM 2024**
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
