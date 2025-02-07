@@ -12,5 +12,11 @@ main:
   - title: "Group"
     url: "/#-group"
 
+  - title: "Honors and Award"
+    url: "/#-honors-and-awards"
+
+  - title: "Services"
+    url: "/#-services"
+
   - title: "Others"
     url: "/#-educations"
