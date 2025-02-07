@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiuqiang He"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""
 repository               : "he-xiuqiang/he-xiuqiang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiuqiang He"
   avatar           : "images/hexiuqiang.png"
-  bio              : "Shenzhen Technology University"
+  bio              : "Distinguished Professor at Shenzhen Technology University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
