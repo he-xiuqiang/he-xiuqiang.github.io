@@ -37,7 +37,7 @@ Xiuqiang He is soon to join the School of Big Data and Internet at Shenzhen Tech
 **Year 2024**
 
 - ***OptDist: Learning Optimal Distribution for Customer Lifetime Value Prediction***, Yunpeng Weng, Xing Tang, Zhenhao Xu, Fuyuan Lyu, Dugang Liu, Zexu Sun, and **Xiuqiang He**, Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, **CIKM 2024**
-- ***End-to-End Cost-Effective Incentive Recommendation under Budget Constraint with Uplift Modeling***, Zexu Sun, Hao Yang, Dugang Liu#, Yunpeng Weng, Xing Tang, and **Xiuqiang He**, Proceedings of the 18th ACM Conference on Recommender Systems, **RecSys 2024**
+- ***End-to-End Cost-Effective Incentive Recommendation under Budget Constraint with Uplift Modeling***, Zexu Sun, Hao Yang, Dugang Liu, Yunpeng Weng, Xing Tang, and **Xiuqiang He**, Proceedings of the 18th ACM Conference on Recommender Systems, **RecSys 2024**
 - ***Touch the Core: Exploring Task Dependence Among Hybrid Targets for Recommendation***, Xing Tang, Yang Qiao, Fuyuan Lyu, Dugang Liu, and **Xiuqiang He**, Proceedings of the 18th ACM Conference on Recommender Systems, **RecSys 2024**
 - ***Masked Random Noise for Communication-Efficient Federated Learning***, Shiwei Li, Yingyi Cheng, Haozhao Wang, Xing Tang , Shijie Xu, Weihong Luo, Yuhua Li, Dugang Liu, **Xiuqiang He**, and Ruixuan Li
 Proceedings of the 31st ACM International Conference on Multimedia, **MM 2024**
