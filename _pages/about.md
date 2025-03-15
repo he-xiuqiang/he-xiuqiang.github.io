@@ -22,6 +22,7 @@ Xiuqiang He is now a Distinguished Professor at the College of Big Data and Inte
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exicting research opportunities, please don't hesitate to reach out to me via email.
 
 # 🔥 News
+- *2025.03*: &nbsp; I will serve on the program committee of ACM MM 2025 as an Area Chair.
 - *2025.01*: &nbsp; I will serve on the program committee of IJCAI 2025 as a SPC Member.
 - *2025.01*: &nbsp; I will serve on the program committee of SIGIR 2025 as a PC Member.
 - *2025.01*: &nbsp; I will serve on the program committee of KDD 2025 ADS track as a PC member.
