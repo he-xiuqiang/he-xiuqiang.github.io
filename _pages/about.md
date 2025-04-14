@@ -31,7 +31,7 @@ Xiuqiang He is now a Distinguished Professor at the College of Big Data and Inte
 
 # 📝 Publications 
 **Year 2025**
-
+- ***Timing is important: Risk-aware Fund Allocation based on Time-Series Forcasting***，Fuyuan Lyu, Linfeng Du, Yunpeng Weng, Qiufang Ying, Zhiyan Xu, Wen Zou, Haolun Wu, **Xiuqiang He**, and Xing Tang，The Thirteenth International Conference on Learning Representations Workshop Advances in Financial AI, **Financial AI@ICLR 2025**
 - ***Comprehending Knowledge Graphs with Large Language Models for Recommender Systems***，Ziqiang Cui, Yunpeng Weng, Xing Tang , Fuyuan Lyu, Dugang Liu, **Xiuqiang He**, and Chen Ma，Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2025**
 - ***Multi-scenario Instance Embedding Learning for Deep Recommneder Systems***，Chaohua Yang, Dugang Liu, Xing Tang , Yuwen Fu, **Xiuqiang He**, Xiangyu Zhao, and Ming Zhong，Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2025**
 - ***Policy-aware Reward Modeling with Uncertainty-Gradient based Data Augmentation***, Zexu Sun, Yiju Guo, Yankai Lin, Xu Chen, Qi Qi, Xing Tang , **Xiuqiang He**, and Ji-Rong Wen, The Thirteenth International Conference on Learning Representations, **ICLR 2025**
