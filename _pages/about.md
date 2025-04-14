@@ -31,6 +31,9 @@ Xiuqiang He is now a Distinguished Professor at the College of Big Data and Inte
 
 # 📝 Publications 
 **Year 2025**
+
+- ***Comprehending Knowledge Graphs with Large Language Models for Recommender Systems***，Ziqiang Cui, Yunpeng Weng, Xing Tang , Fuyuan Lyu, Dugang Liu, **Xiuqiang He**, and Chen Ma，Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2025**
+- ***Multi-scenario Instance Embedding Learning for Deep Recommneder Systems***，Chaohua Yang, Dugang Liu, Xing Tang , Yuwen Fu, **Xiuqiang He**, Xiangyu Zhao, and Ming Zhong，Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2025**
 - ***Policy-aware Reward Modeling with Uncertainty-Gradient based Data Augmentation***, Zexu Sun, Yiju Guo, Yankai Lin, Xu Chen, Qi Qi, Xing Tang , **Xiuqiang He**, and Ji-Rong Wen, The Thirteenth International Conference on Learning Representations, **ICLR 2025**
 - ***Scenario Shared Instance Modeling for Click-through Rate Prediction***，Dugang Liu, Chaohua Yang, Yuwen Fu, Xing Tang, Gongfu Li, Fuyuan Lyu, **Xiuqiang He**, and Zhong Ming，Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2025**
 - ***Fusion Matters: Learning Fusion in Deep Click-through Rate Prediction Models***, Kexin Zhang, Fuyuan Lyu, Xing Tang, Dugang Liu, Chen Ma, Kaize Ding, **Xiuqiang He**, and Xue Liu, Proceedings of the 18th ACM International Conference on Web Search and Data Mining, **WSDM 2025**
