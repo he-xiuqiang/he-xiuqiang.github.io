@@ -33,6 +33,13 @@ Xiuqiang He is now a Distinguished Professor at the College of Big Data and Inte
 
 # 📝 Publications 
 **Year 2025**
+- ***The Panaceas for Improving Low-Rank Decomposition in Communication-Efficient Federated Learning***,
+Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang , Shijie Xu, Weihong Luo, Yuhua Li, **Xiuqiang He**, and Ruixuan Li，42nd International Conference on Machine Learning, **ICML 2025**
+- ***Invariant Deep Uplift Modeling for Incentives Assignment in Online Marketing via Probability of Necessity and Sufficiency***,
+Zexu Sun, Qiyu Han, Hao Yang, Anpeng Wu, Minqin Zhu, Dugang Liu, Chen Ma, Yunpeng Weng, Xing Tang , and **Xiuqiang He**,
+42nd International Conference on Machine Learning, **ICML 2025**
+- ***Beyond Zero Initialization: Investigating the Impact of Non-Zero Initialization on LoRA Fine-Tuning Dynamics***,
+Shiwei Li, Xiandi Luo, Xing Tang , Haozhao Wang, Hao Chen, Weihong Luo, Yuhua Li, **Xiuqiang He**, and Ruixuan Li, 42nd International Conference on Machine Learning, **ICML 2025**
 - ***Timing is important: Risk-aware Fund Allocation based on Time-Series Forcasting***，Fuyuan Lyu, Linfeng Du, Yunpeng Weng, Qiufang Ying, Zhiyan Xu, Wen Zou, Haolun Wu, **Xiuqiang He**, and Xing Tang，The Thirteenth International Conference on Learning Representations Workshop Advances in Financial AI, **Financial AI@ICLR 2025**
 - ***Comprehending Knowledge Graphs with Large Language Models for Recommender Systems***，Ziqiang Cui, Yunpeng Weng, Xing Tang , Fuyuan Lyu, Dugang Liu, **Xiuqiang He**, and Chen Ma，Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2025**
 - ***Multi-scenario Instance Embedding Learning for Deep Recommneder Systems***，Chaohua Yang, Dugang Liu, Xing Tang , Yuwen Fu, **Xiuqiang He**, Xiangyu Zhao, and Ming Zhong，Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2025**
