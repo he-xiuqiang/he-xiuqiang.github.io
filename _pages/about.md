@@ -33,6 +33,11 @@ Xiuqiang He is now a Distinguished Professor at the College of Big Data and Inte
 
 # 📝 Publications 
 **Year 2025**
+
+- ***Retrieval Augmented Cross-Domain LifeLong Behavior Modeling for Enhancing Click-through Rate Prediction***，Xing Tang , Chaohua Yang, Yuwen Fu, Dongyang Ao, Shiwei Li, Fuyuan Lyu, Dugang Liu, and **Xiuqiang He**，Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2025**
+
+- ***Timing is important: Risk-aware Fund Allocation based on Time-Series Forcasting***，Fuyuan Lyu, Linfeng Du, Yunpeng Weng, Qiufang Ying, Zhiyan Xu, Wen Zou, Haolun Wu, **Xiuqiang He**, and Xing Tang，Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2025**
+
 - ***The Panaceas for Improving Low-Rank Decomposition in Communication-Efficient Federated Learning***,
 Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang , Shijie Xu, Weihong Luo, Yuhua Li, **Xiuqiang He**, and Ruixuan Li，42nd International Conference on Machine Learning, **ICML 2025**
 - ***Invariant Deep Uplift Modeling for Incentives Assignment in Online Marketing via Probability of Necessity and Sufficiency***,
