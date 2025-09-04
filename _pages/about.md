@@ -22,6 +22,7 @@ Xiuqiang He is now a Distinguished Professor at the College of Big Data and Inte
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exicting research opportunities, please don't hesitate to reach out to me via email.
 
 # 🔥 News
+- *2025.09*: &nbsp; I will serve on the program committee of ICLR 2026 as a Reviewer.
 - *2025.08*: &nbsp; I will serve as a member of the CCIR Committee（中国中文信息学会信息检索专委会委员）.
 - *2025.08*: &nbsp; I will serve on the program committee of industry track at WWW2026 as PC Member.
 - *2025.05*: &nbsp; Two papers are accpeted by KDD ADS 2025.
