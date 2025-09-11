@@ -88,7 +88,7 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 - ***Debiased recommendation with user feature balancing***, Mengyue Yang, Guohao Cai, Furui Liu, Jiarui Jin, Zhenhua Dong, **Xiuqiang He**, Jianye Hao, Weiqi Shao, Jun Wang, Xu Chen, ACM Transactions on Information Systems, **TOIS**
 
 # 👪 Group
-- <a href="https://xingt-tang.github.io/ target="_blank" rel="noopener noreferrer">Prof. Xing Tang（唐兴）</a>
+- ** to be added **
 
 # 🧑‍💻 Services
 - ** to be added **
