@@ -89,14 +89,14 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 - ***Debiased recommendation with user feature balancing***, Mengyue Yang, Guohao Cai, Furui Liu, Jiarui Jin, Zhenhua Dong, **Xiuqiang He**, Jianye Hao, Weiqi Shao, Jun Wang, Xu Chen, ACM Transactions on Information Systems, **TOIS**
 
 # 👪 Group
--  ***[Xing Tang](https://xingt-tang.github.io/)***
--  ***[Lingjie Li](https://scholar.google.com/citations?user=0SatikoAAAAJ&hl=zh-TW)***
+-  ***[Prof. Xing Tang](https://xingt-tang.github.io/)***
+-  ***[Prof. Lingjie Li](https://scholar.google.com/citations?user=0SatikoAAAAJ&hl=zh-TW)***
 -  ***Students:*** Jingyang Bin, Jiawei Lin, Hanchong Chen, Jie Liu, Yongwei Li, Jun Zhang, ChengLin Luo, Yaoshuo Wu, XiongFeng Shan, Lietai Hong, Zhiyu Zhang
 -  ***Visiting Students:*** Tongzhou Wu (City University of Hong Kong)
 -  ***Off-Campus Collaborator***
--  ***【Dugang Liu】（https://dgliu.github.io/）***
--  ***【Fuyuan Lyu】（https://fuyuanlyu.github.io/）***
--  ***【Shiwei Li】（https://leopold1423.github.io/）***
+-  ***【Prof. Dugang Liu】（https://dgliu.github.io/）*** (Shenzhen University)
+-  ***【Dr. Fuyuan Lyu】（https://fuyuanlyu.github.io/）*** (McGill University)
+-  ***【Dr. Shiwei Li】（https://leopold1423.github.io/）*** (huazhong university of science and technology)
 
 # 🧑‍💻 Services
 - ** to be added **
