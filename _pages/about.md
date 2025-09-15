@@ -91,6 +91,12 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 # 👪 Group
 -  ***[Xing Tang](https://xingt-tang.github.io/)***
 -  ***[Lingjie Li](https://scholar.google.com/citations?user=0SatikoAAAAJ&hl=zh-TW)***
+-  ***Students:*** Jingyang Bin, Jiawei Lin, Hanchong Chen, Jie Liu, Yongwei Li, Jun Zhang, ChengLin Luo, Yaoshuo Wu, XiongFeng Shan, Lietai Hong, Zhiyu Zhang
+-  ***Visiting Students:*** Tongzhou Wu (City University of Hong Kong)
+-  ***Off-Campus Collaborator***
+-  ***【Dugang Liu】（https://dgliu.github.io/）***
+-  ***【Fuyuan Lyu】（https://fuyuanlyu.github.io/）***
+-  ***【Shiwei Li】（https://leopold1423.github.io/）***
 
 # 🧑‍💻 Services
 - ** to be added **
