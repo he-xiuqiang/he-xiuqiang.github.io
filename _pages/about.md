@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiuqiang He（何秀强） is now a Distinguished Professor at the College of Big Data and Internet, Shenzhen Technology University (SZTU).  His research interests include recommendation systems, information retrieval, online marketing and advertisement, AI for science, and the application of artificial intelligence in real-world scenarios. Prior to his appointment at SZTU, he served as a Senior Director at FiT, Tencent from 2022 to 2024. Before that, he was the Director of the Recommendation and Search Lab at Huawei Noah's Ark Laboratory. He earned his Ph.D. from the Department of Computer science and Engineering at the Hong Kong University of Science and Technology (HKUST) in 2010. He obtained his Master's degree in 2006 and Bachelor's degree in 2003, both from Xi’an JiaoTong University (XJTU). He has published over 100 research papers in top-tier international conferences and journals, and his publications have amassed over 10,000 citations on Google Scholar. He is among the authors of DeepFM, which is one of the most widely used click-through rate prediction algorithms in industry. He was honored with the Best Paper Award at DLP-KDD 2021. Additionally, he holds over 60 families of domestic or international patents. 
+Xiuqiang He（何秀强） is now a Distinguished Professor at the College of Big Data and Internet, Shenzhen Technology University (SZTU).  His research interests include recommendation systems, information retrieval, online marketing and advertisement, AI for science, and the application of artificial intelligence in real-world scenarios. Prior to his appointment at SZTU, he served as a Senior Director at FiT, Tencent from 2022 to 2024. Before that, he was the Director of the Recommendation and Search Lab at Huawei Noah's Ark Laboratory. He earned his Ph.D. from the Department of Computer science and Engineering at the Hong Kong University of Science and Technology (HKUST) in 2010. He obtained his Master's degree in 2006 and Bachelor's degree in 2003, both from Xi’an JiaoTong University (XJTU). He has published over 130 research papers in top-tier international conferences and journals, and his publications have amassed over 10,800 citations on Google Scholar. He is among the authors of DeepFM, which is one of the most widely used click-through rate prediction algorithms in industry. He was honored with the Best Paper Award at DLP-KDD 2021. Additionally, he holds over 60 families of domestic or international patents. 
 
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exicting research opportunities, please don't hesitate to reach out to me via email.
 
@@ -93,7 +93,7 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 -  ***[Prof. Lingjie Li](https://scholar.google.com/citations?user=0SatikoAAAAJ&hl=zh-TW)***
 -  ***Students:*** Jingyang Bin, Jiawei Lin, Hanchong Chen, Jie Liu, Yongwei Li, Jun Zhang, ChengLin Luo, Yaoshuo Wu, XiongFeng Shan, Lietai Hong, Zhiyu Zhang
 -  ***Visiting Students:*** Tongzhou Wu (City University of Hong Kong)
-***Off-Campus Collaborator***
+-  ***Off-Campus Collaborator***
 -  ***[Prof. Dugang Liu](https://dgliu.github.io/)*** (Shenzhen University)
 -  ***[Dr. Fuyuan Lyu](https://fuyuanlyu.github.io/)*** (McGill University)
 -  ***[Dr. Shiwei Li](https://leopold1423.github.io/)*** (Huazhong university of science and technology)
