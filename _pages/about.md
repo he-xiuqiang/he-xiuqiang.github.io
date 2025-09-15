@@ -90,7 +90,7 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 
 # 👪 Group
 -  ***[Xing Tang](https://xingt-tang.github.io/)***
--  ***[Lingjie Li]([https://xingt-tang.github.io/](https://scholar.google.com/citations?user=0SatikoAAAAJ&hl=zh-TW))***
+-  ***[Lingjie Li](https://xingt-tang.github.io/](https://scholar.google.com/citations?user=0SatikoAAAAJ&hl=zh-TW)***
 
 # 🧑‍💻 Services
 - ** to be added **
