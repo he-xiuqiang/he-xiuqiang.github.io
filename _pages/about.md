@@ -105,6 +105,15 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 - Program Chair of [ICML 2025](https://www.icmlca.org/)
 - Member of the CCIR Committee
 
+# 🧑‍💻 Awards
+- 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
+- 2024 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
+- 2023 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
+- Best Paper Award at DLP-KDD 2021
+- Huawei Gold Individual Award, 2015
+- Huawei Gold Individual Award, 2012
+- Huawei Gold Team Award, 2011
+  
 # 📖 Educations
 - *2006.07 - 2010.07*, Ph.D, Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST)
 - *2003.09 - 2006.07*, Master, Computer Science and Technology, Xi'an Jiaotong University
