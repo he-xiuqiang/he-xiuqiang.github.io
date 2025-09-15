@@ -94,9 +94,9 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 -  ***Students:*** Jingyang Bin, Jiawei Lin, Hanchong Chen, Jie Liu, Yongwei Li, Jun Zhang, ChengLin Luo, Yaoshuo Wu, XiongFeng Shan, Lietai Hong, Zhiyu Zhang
 -  ***Visiting Students:*** Tongzhou Wu (City University of Hong Kong)
 -  ***Off-Campus Collaborator***
--  ***【Prof. Dugang Liu】（https://dgliu.github.io/）*** (Shenzhen University)
--  ***【Dr. Fuyuan Lyu】（https://fuyuanlyu.github.io/）*** (McGill University)
--  ***【Dr. Shiwei Li】（https://leopold1423.github.io/）*** (huazhong university of science and technology)
+-  ***[Prof. Dugang Liu](https://dgliu.github.io/)*** (Shenzhen University)
+-  ***[Dr. Fuyuan Lyu](https://fuyuanlyu.github.io/)*** (McGill University)
+-  ***[Dr. Shiwei Li](https://leopold1423.github.io/)*** (huazhong university of science and technology)
 
 # 🧑‍💻 Services
 - ** to be added **
