@@ -18,8 +18,5 @@ main:
   - title: "Awards"
     url: "/#-awards"
 
-  - title: "Teaching"
-    url: "/#-teaching"
-
   - title: "Others"
     url: "/#-educations"
