@@ -102,7 +102,7 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 # 🧑‍💻 Services
 - PC member of ECMLPKDD 2025,KDD ADS 2025,SIGIR 2025,NeurIPS 2025,WWW 2026,ICLR 2026
 - SPC/AC of IJCAI 2025,MM2025
-- Program Chair of [ICML 2025](https://www.icmlca.org/)
+- Program Chair of [ICMLCA 2025](https://www.icmlca.org/)
 - Member of the CCIR Committee
 
 # 🧑‍💻 Awards
