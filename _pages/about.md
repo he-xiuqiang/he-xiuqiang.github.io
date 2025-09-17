@@ -97,7 +97,7 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 ***Off-Campus Collaborator:***
 -  ***[Prof. Dugang Liu](https://dgliu.github.io/)*** (Shenzhen University)
 -  ***[Dr. Fuyuan Lyu](https://fuyuanlyu.github.io/)*** (McGill University)
--  ***[Dr. Shiwei Li](https://leopold1423.github.io/)*** (Huazhong university of science and technology)
+-  ***[Dr. Shiwei Li](https://leopold1423.github.io/)*** (Huazhong University of Science and Technology)
 
 # 🧑‍💻 Services
 - PC member of ECMLPKDD 2025,KDD ADS 2025,SIGIR 2025,NeurIPS 2025,WWW 2026,ICLR 2026
