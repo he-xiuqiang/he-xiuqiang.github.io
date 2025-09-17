@@ -88,7 +88,7 @@ Proceedings of the 2024 SIAM International Conference on Data Mining, **SDM 2024
 Database Systems for Advanced Applications - 28th International Conference, **DASFAA 2023**
 - ***Debiased recommendation with user feature balancing***, Mengyue Yang, Guohao Cai, Furui Liu, Jiarui Jin, Zhenhua Dong, **Xiuqiang He**, Jianye Hao, Weiqi Shao, Jun Wang, Xu Chen, ACM Transactions on Information Systems, **TOIS**
 
-more papers refer to [Here](https://scholar.google.com/citations?user=3lprwmsAAAAJ)
+Full paper list available at [My Goolge Scholar](https://scholar.google.com/citations?user=3lprwmsAAAAJ)
 
 # 👪 Group
 -  ***[Prof. Xing Tang](https://xingt-tang.github.io/)***
