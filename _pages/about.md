@@ -22,6 +22,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at the College of Bi
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exicting research opportunities, please don't hesitate to reach out to me via email.
 
 # 🔥 News
+- *2025.09*: &nbsp; Two papers are accpeted by NeurIPS 2025.
 - *2025.09*: &nbsp; 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI (91st worldwide).
 - *2025.09*: &nbsp; I will serve on the program committee of ICLR 2026 as a Reviewer.
 - *2025.08*: &nbsp; I will serve as a member of the CCIR Committee（中国中文信息学会信息检索专委会委员）.
