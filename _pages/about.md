@@ -125,6 +125,6 @@ Full paper list available at [My Goolge Scholar](https://scholar.google.com/cita
 
 # 💻 Industry Experiences
 - *2022.01 - 2025.01*, Senior Director, Principle Expert Researcher, Intelligent Application Center, FiT, Tencent
-- *2019.07 - 2021.12*, Director, Senior Research, Recommendation and search Lab, Noah's Ark Lab, Huawei
-- *2018.05 - 2019.07*, Algorithm Expert, PCG, Tencent
+- *2019.07 - 2021.12*, Director, Senior Researcher, Recommendation and search Lab, Noah's Ark Lab, Huawei
+- *2018.05 - 2019.07*, Expert, PCG, Tencent
 - *2010.07 - 2018.05*, Founding Director, Recommendation and search Lab, Noah's Ark Lab, Huawei
