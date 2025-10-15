@@ -103,13 +103,13 @@ Full paper list available at [My Goolge Scholar](https://scholar.google.com/cita
 -  ***[Dr. Fuyuan Lyu](https://fuyuanlyu.github.io/)*** (McGill University)
 -  ***[Dr. Shiwei Li](https://leopold1423.github.io/)*** (Huazhong University of Science and Technology)
 
-# Services
+# 👤 Services
 - PC member of ECMLPKDD 2025,KDD ADS 2025,SIGIR 2025,NeurIPS 2025,WWW 2026,ICLR 2026
 - SPC/AC of IJCAI 2025,MM2025
 - Co-Program Chair of [ICMLCA 2025](https://www.icmlca.org/)
 - Member of the CCIR Committee (中国中文信息学会信息检索专委会委员), since 2025.08
 
-# Awards
+# 🏅 Awards
 - 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
 - 2024 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
 - 2023 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
@@ -118,15 +118,15 @@ Full paper list available at [My Goolge Scholar](https://scholar.google.com/cita
 - Huawei Gold Individual Award, 2012
 - Huawei Gold Team Award, 2011
 
-# Teaching
+# 👩🏻‍🏫 Teaching
 - Fall 2025,  ***Intelligent Recommender Systems: Application and Practice***
   
-# Educations
+# 👥 Educations
 - *2006.07 - 2010.07*, Ph.D, Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST)
 - *2003.09 - 2006.07*, Master, Computer Science and Technology, Xi'an Jiaotong University
 - *1999.09 - 2003.07*, Bachelor, Computer Science and Technology, Xi'an Jiaotong University
 
-# Industry Experiences
+# 👩🏻‍🏫 Industry Experiences
 - *2022.01 - 2025.01*, Senior Director, Principle Expert Researcher, Intelligent Application Center, FiT, Tencent
 - *2019.07 - 2021.12*, Director, Senior Researcher, Recommendation and search Lab, Noah's Ark Lab, Huawei
 - *2018.05 - 2019.07*, Expert, PCG, Tencent
