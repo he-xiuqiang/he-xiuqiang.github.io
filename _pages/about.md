@@ -119,7 +119,7 @@ Full paper list available at [My Goolge Scholar](https://scholar.google.com/cita
 - Huawei Gold Team Award, 2011
 
 # 👩🏻‍🏫 Teaching
-- Fall 2025,  ***Intelligent Recommender Systems: Application and Practice***
+- Fall 2025,  ***Intelligent Recommender Systems: Application and Practice（智能推荐系统应用与实践）***
   
 # 👥 Educations
 - *2006.07 - 2010.07*, Ph.D, Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST)
