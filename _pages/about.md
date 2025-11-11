@@ -42,7 +42,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 
 # 📝 Publications 
 **Year 2025**
-- ***Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation***, Ziqiang Cui, Yunpeng Weng, Xing Tang#, Xiaokun Zhang, Shiwei Li, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, **Xiuqiang He**, and Chen Ma, In 39th Annual Conference on Neural Information Processing Systems, **NeurIPS**, 2025
+- ***Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation***, Ziqiang Cui, Yunpeng Weng, Xing Tang, Xiaokun Zhang, Shiwei Li, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, **Xiuqiang He**, and Chen Ma, In 39th Annual Conference on Neural Information Processing Systems, **NeurIPS**, 2025
 - ***Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation***，Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, **Xiuqiang He**, and Ruixuan Li, In 39th Annual Conference on Neural Information Processing Systems, **NeurIPS**, 2025
 - ***Retrieval Augmented Cross-Domain LifeLong Behavior Modeling for Enhancing Click-through Rate Prediction***，Xing Tang , Chaohua Yang, Yuwen Fu, Dongyang Ao, Shiwei Li, Fuyuan Lyu, Dugang Liu, and **Xiuqiang He**，Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2025**
 
