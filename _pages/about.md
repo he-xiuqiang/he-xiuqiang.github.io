@@ -114,7 +114,7 @@ Full paper list available at [My Goolge Scholar](https://scholar.google.com/cita
 
 # 🏅 Awards
 - 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI (91st/ top 2000)
-- 2025 AI 2000 Most Influential Scholar Award Honorable Mention in Information Retrieval and Recommendation(SIGIR/RecSys/WWW) (188th/ top 2000)
+- 2025 AI 2000 Most Influential Scholar Award Honorable Mention in SIGIR/RecSys/WWW (188th/ top 2000)
 - 2024 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
 - 2023 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
 - Best Paper Award at DLP-KDD 2021
