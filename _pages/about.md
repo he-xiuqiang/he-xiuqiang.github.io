@@ -113,7 +113,7 @@ Full paper list available at [My Goolge Scholar](https://scholar.google.com/cita
 - Member of the CCIR Committee (中国中文信息学会信息检索专委会委员), since 2025.08
 
 # 🏅 Awards
-- 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
+- 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI (91st/2000)
 - 2024 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
 - 2023 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
 - Best Paper Award at DLP-KDD 2021
