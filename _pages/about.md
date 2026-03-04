@@ -22,7 +22,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exicting research opportunities, please don't hesitate to reach out to me via email.
 
 # 🔥 News
---*2026.02*: &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.
+- *2026.02*: &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.
 - *2026.01*: &nbsp; One paper is accepted by ICLR 2206.
 - *2026.01*: &nbsp; One paper is accepted by WWWW 2206 industry track.
 - *2025.12*: &nbsp; I have been appointed Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.
@@ -46,6 +46,11 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - *2025.01*: &nbsp; I will serve on the program committee of ECMLPKDD 2025 as a PC member.
 
 # 📝 Publications 
+**Year 2026**
+- ***Data-Driven Function Calling Improvements in Large Language Model for Online Financial QA***, Xing Tang, Hao Chen, Shiwei Li, Fuyuan Lyu, Weijie Shi, Lingjie Li, Dugang Liu, Weihong Luo, Xiku Du, ***Xiuqiang He#***, In Proceedings of the ACM Web Conference 2026, ***WebConf***, 2026
+- ***BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity***, Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Yichen Li, ***Xiuqiang He***, and Ruixuan Li, In The Fourteenth International Conference on Learning Representations, ***ICLR***, 2026
+- ***An adaptive length-variation based evolutionary multitasking algorithm for feature selection of high-dimensional classification***, Lingjie Li, Yuze Zhang, Zhijiao Xiao, Qiuzhen Lin, Xin Wang, Xiuqiang He, Ming Zhong, In ***Expert Systems With Applications***, 2026
+
 **Year 2025**
 - ***Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation***, Ziqiang Cui, Yunpeng Weng, Xing Tang, Xiaokun Zhang, Shiwei Li, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, **Xiuqiang He**, and Chen Ma, In 39th Annual Conference on Neural Information Processing Systems, **NeurIPS**, 2025
 - ***Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation***，Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, **Xiuqiang He**, and Ruixuan Li, In 39th Annual Conference on Neural Information Processing Systems, **NeurIPS**, 2025
