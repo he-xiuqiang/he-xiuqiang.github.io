@@ -50,6 +50,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - ***Data-Driven Function Calling Improvements in Large Language Model for Online Financial QA***, Xing Tang, Hao Chen, Shiwei Li, Fuyuan Lyu, Weijie Shi, Lingjie Li, Dugang Liu, Weihong Luo, Xiku Du, ***Xiuqiang He#***, In Proceedings of the ACM Web Conference 2026, ***WebConf***, 2026
 - ***BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity***, Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Yichen Li, ***Xiuqiang He***, and Ruixuan Li, In The Fourteenth International Conference on Learning Representations, ***ICLR***, 2026
 - ***An adaptive length-variation based evolutionary multitasking algorithm for feature selection of high-dimensional classification***, Lingjie Li, Yuze Zhang, Zhijiao Xiao, Qiuzhen Lin, Xin Wang, Xiuqiang He, Ming Zhong, In ***Expert Systems With Applications***, 2026
+- ***Automated information flow selection for multi-scenario multi-task recommendation***, Chaohua Yang, Dugang Liu, Shiwei Li, Yuwen Fu, Xing Tang, Weihong Luo, Xiangyu Zhao, ***Xiuqiang He***, Zhong Ming, in The 19th ACM International Conference on Web Search and Data Mining, ***WSDM***, 2026.
 
 **Year 2025**
 - ***Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation***, Ziqiang Cui, Yunpeng Weng, Xing Tang, Xiaokun Zhang, Shiwei Li, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, **Xiuqiang He**, and Chen Ma, In 39th Annual Conference on Neural Information Processing Systems, **NeurIPS**, 2025
