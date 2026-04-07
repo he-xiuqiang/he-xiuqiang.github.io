@@ -49,6 +49,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 
 # 📝 Publications 
 **Year 2026**
+- ***Learning from Cognition: Enhancing RL Efficiency for LLM Reasoning via Hierarchical Metacognitive Decomposition and Refinement***，Zexu Sun, Yongcheng Zeng, Erxue Min, Heyang Gao, Bokai Ji, Dugang Liu, Xing Tang, ***Xiuqiang He***, Xu Chen， in The 64th Annual Meeting of the Association for Computational Linguistics, ***ACL***, 2026
 - ***Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation***,Fuyuan Lyu, Zhentai Chen, Jingyan Jiang, Lingjie Li, Xing Tang, ***Xiuqiang He***, Xue Liu, in Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR**, 2026
 - ***FedMM: Federated Collaborative Signal Quantization for Multi-Market CTR Prediction***, Jun Zhang, Dugang Liu, Xing Tang, ***Xiuqiang He***, Zhong Ming, in Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR**, 2026
 - ***DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent***, ongzhou Wu, Yuhao Wang, Xinyu Ma, ***Xiuqiang He***, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao, in Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR**, 2026
