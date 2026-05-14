@@ -26,7 +26,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - *2026.04*: &nbsp; One papers is accepted by ACL 2026.
 - *2026.04*: &nbsp; Three papers are accepted by SIGIR 2026.
 - *2026.02*: &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.
-- *2026.01*: &nbsp; One paper is accepted by ICLR 2206.
+- *2026.01*: &nbsp; One paper is accepted by ICLR 2026.
 - *2026.01*: &nbsp; One paper is accepted by WWWW 2206 industry track.
 - *2025.12*: &nbsp; I have been appointed Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.
 - *2025.12*: &nbsp; I will serve on the program committee of SIGIR 2026 as an Area Chair.
