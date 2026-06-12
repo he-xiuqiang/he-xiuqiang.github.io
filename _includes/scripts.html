@@ -31,7 +31,7 @@
       var rank = CCF[key];
       // ICLR has no official CCF rank; tag only the 2026+ paper as A.
       if (key === 'ICLR') rank = (year >= 2026) ? 'A' : undefined;
-      if (rank) {
+      if (rank === 'A' || rank === 'B') {
         var span = document.createElement('span');
         span.className = 'ccf';
         span.textContent = 'CCF-' + rank;
