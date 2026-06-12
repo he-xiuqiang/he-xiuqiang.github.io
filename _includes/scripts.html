@@ -19,17 +19,6 @@
       'IEEE Transactions on Neural Networks and Learning Systems':'B','Information Sciences':'B',
       'MDM':'C','Neurocomputing':'C','Knowledge-Based Systems':'C','Expert Systems With Applications':'C'
     };
-    // Non-CCF-A journals -> CAS (中科院) major-category partition.
-    var CAS = {
-      'IEEE Transactions on Neural Networks and Learning Systems':'一区',
-      'Information Sciences':'一区',
-      'Knowledge-Based Systems':'一区',
-      'Expert Systems With Applications':'一区',
-      'Neurocomputing':'二区',
-      'ACM Transactions on Knowledge Discovery from Data':'三区',
-      'Data Mining and Knowledge Discovery':'三区',
-      'IEEE Access':'四区'
-    };
     document.querySelectorAll('.page__content li').forEach(function (li) {
       var strongs = li.querySelectorAll('strong');
       if (!strongs.length) return;
@@ -42,16 +31,12 @@
       var rank = CCF[key];
       // ICLR has no official CCF rank; tag only the 2026+ paper as A.
       if (key === 'ICLR') rank = (year >= 2026) ? 'A' : undefined;
-      var tail = last;
-      function addBadge(cls, text) {
-        var s = document.createElement('span');
-        s.className = cls;
-        s.textContent = text;
-        tail.parentNode.insertBefore(s, tail.nextSibling);
-        tail = s;
+      if (rank) {
+        var span = document.createElement('span');
+        span.className = 'ccf';
+        span.textContent = 'CCF-' + rank;
+        last.parentNode.insertBefore(span, last.nextSibling);
       }
-      if (rank) addBadge('ccf', 'CCF-' + rank);
-      if (CAS[key]) addBadge('cas', '中科院' + CAS[key]);
     });
   });
 </script>

@@ -194,10 +194,9 @@ a {
   vertical-align: baseline;
 }
 
-/* CCF rank badge and CAS (中科院) partition badge, inserted by script after
-   the venue pill. Same look as the venue pill. */
-.page__content li span.ccf,
-.page__content li span.cas {
+/* CCF rank badge, inserted by script right after the venue pill.
+   Same look as the venue pill (no A/B/C color distinction). */
+.page__content li span.ccf {
   display: inline-block;
   font-weight: 600;
   font-size: 0.78em;
