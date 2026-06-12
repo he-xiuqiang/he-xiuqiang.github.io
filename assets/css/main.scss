@@ -104,7 +104,7 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #0969da;
+    background-color: #3538cd;
     font-size: .8em;
 }
 
@@ -112,7 +112,7 @@ h1:before, .anchor:before {
    Modern theme polish (Style A — Inter / clean accent)
    ========================================================================== */
 
-$accent: #0969da;
+$accent: #3538cd;
 
 body {
   line-height: 1.7;
@@ -120,6 +120,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  background-color: #faf9f7;
+}
+
+/* Thin accent bar pinned to the very top (rides with the sticky masthead) */
+.masthead {
+  border-top: 3px solid $accent;
+  background-color: #ffffff;
 }
 
 /* Section headers (rendered as <h1> from `# Title`): heavier, with a thin rule */
@@ -173,7 +180,16 @@ a {
 .author__avatar img {
   border-radius: 12px;
   border: 1px solid #e6e8eb;
-  box-shadow: 0 6px 20px rgba(27, 31, 35, 0.10);
+  box-shadow: 0 2px 6px rgba(27, 31, 35, 0.06);
+}
+
+/* Sidebar author profile as a clean card panel */
+.sidebar .profile_box {
+  background: #ffffff;
+  border: 1px solid #ebe7e1;
+  border-radius: 14px;
+  padding: 1.25em 1.25em 0.75em;
+  box-shadow: 0 6px 22px rgba(27, 31, 35, 0.07);
 }
 
 /* Venue tag: turn the trailing **Venue Year** into a clean pill.
@@ -185,8 +201,8 @@ a {
   font-size: 0.78em;
   letter-spacing: 0.01em;
   color: $accent;
-  background: rgba(9, 105, 218, 0.08);
-  border: 1px solid rgba(9, 105, 218, 0.18);
+  background: rgba(53, 56, 205, 0.08);
+  border: 1px solid rgba(53, 56, 205, 0.18);
   border-radius: 6px;
   padding: 0.05em 0.5em;
   margin-left: 0.15em;
@@ -202,8 +218,8 @@ a {
   font-size: 0.78em;
   letter-spacing: 0.01em;
   color: $accent;
-  background: rgba(9, 105, 218, 0.08);
-  border: 1px solid rgba(9, 105, 218, 0.18);
+  background: rgba(53, 56, 205, 0.08);
+  border: 1px solid rgba(53, 56, 205, 0.18);
   border-radius: 6px;
   padding: 0.05em 0.5em;
   margin-left: 0.3em;
