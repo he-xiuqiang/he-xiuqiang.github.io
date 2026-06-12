@@ -51,97 +51,16 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 
 # 📝 Publications 
 **Year 2026**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/500x300.png' alt='Fighting Numerical Hallucinations' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA**
-
-Hao Chen, Xing Tang, Qirui Liu, Weijie Shi, Shiwei Li, Fuyuan Lyu, Weihong Luo, Xiku Du, **Xiuqiang He**
-
-*Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026*
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/500x300.png' alt='Adaptive Modality Scheduling' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**AMS: Adaptive Modality Scheduling for Industrial Multi-Scenario CTR Prediction**
-
-Kailiang Hao, Chaohua Yang, Wei Zeng, Jianan Su, Kaixin Shen, Jingtong Wu, Dugang Liu, Xing Tang, Jingyang Bin, **Xiuqiang He**, Zhong Ming
-
-*Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026*
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt='Learning from Cognition' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Learning from Cognition: Enhancing RL Efficiency for LLM Reasoning via Hierarchical Metacognitive Decomposition and Refinement**
-
-Zexu Sun, Yongcheng Zeng, Erxue Min, Heyang Gao, Bokai Ji, Dugang Liu, Xing Tang, **Xiuqiang He**, Xu Chen
-
-*The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026*
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/500x300.png' alt='Exploring Test-time Scaling' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**
-
-Fuyuan Lyu, Zhentai Chen, Jingyan Jiang, Lingjie Li, Xing Tang, **Xiuqiang He**, Xue Liu
-
-*Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026*
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/500x300.png' alt='FedMM' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**FedMM: Federated Collaborative Signal Quantization for Multi-Market CTR Prediction**
-
-Jun Zhang, Dugang Liu, Xing Tang, **Xiuqiang He**, Zhong Ming
-
-*Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026*
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/500x300.png' alt='DeepResearch-9K' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent**
-
-Tongzhou Wu, Yuhao Wang, Xinyu Ma, **Xiuqiang He**, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao
-
-*Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026*
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/500x300.png' alt='Data-Driven Function Calling' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Data-Driven Function Calling Improvements in Large Language Model for Online Financial QA**
-
-Xing Tang, Hao Chen, Shiwei Li, Fuyuan Lyu, Weijie Shi, Lingjie Li, Dugang Liu, Weihong Luo, Xiku Du, **Xiuqiang He\#**
-
-*In Proceedings of the ACM Web Conference 2026 (WWW), 2026*
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/500x300.png' alt='BoRA' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity**
-
-Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Yichen Li, **Xiuqiang He**, Ruixuan Li
-
-*The Fourteenth International Conference on Learning Representations (ICLR), 2026*
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2026</div><img src='images/500x300.png' alt='Evolutionary multitasking feature selection' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**An adaptive length-variation based evolutionary multitasking algorithm for feature selection of high-dimensional classification**
-
-Lingjie Li, Yuze Zhang, Zhijiao Xiao, Qiuzhen Lin, Xin Wang, **Xiuqiang He**, Ming Zhong
-
-*Expert Systems With Applications (ESWA), 2026*
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2026</div><img src='images/500x300.png' alt='Automated information flow selection' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Automated information flow selection for multi-scenario multi-task recommendation**
-
-Chaohua Yang, Dugang Liu, Shiwei Li, Yuwen Fu, Xing Tang, Weihong Luo, Xiangyu Zhao, **Xiuqiang He**, Zhong Ming
-
-*The 19th ACM International Conference on Web Search and Data Mining (WSDM), 2026*
-</div></div>
+- ***Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA***，Hao Chen, Xing Tang, Qirui Liu, Weijie Shi, Shiwei Li, Fuyuan Lyu, weihongluo, Xiku Du, ***Xiuqiang He***，in Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2026**
+- ***AMS: Adaptive Modality Scheduling for Industrial Multi-Scenario CTR Prediction***，Kailiang Hao, Chaohua Yang, WeiZeng, Jianan Su, Kaixin Shen, jingtong wu, Dugang Liu, Xing Tang, Jingyang Bin, ***Xiuqiang He***, Zhong Ming，in Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2026**
+- ***Learning from Cognition: Enhancing RL Efficiency for LLM Reasoning via Hierarchical Metacognitive Decomposition and Refinement***，Zexu Sun, Yongcheng Zeng, Erxue Min, Heyang Gao, Bokai Ji, Dugang Liu, Xing Tang, ***Xiuqiang He***, Xu Chen，in The 64th Annual Meeting of the Association for Computational Linguistics, **ACL 2026**
+- ***Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation***,Fuyuan Lyu, Zhentai Chen, Jingyan Jiang, Lingjie Li, Xing Tang, ***Xiuqiang He***, Xue Liu, in Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2026**
+- ***FedMM: Federated Collaborative Signal Quantization for Multi-Market CTR Prediction***, Jun Zhang, Dugang Liu, Xing Tang, ***Xiuqiang He***, Zhong Ming, in Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2026**
+- ***DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent***, Tongzhou Wu, Yuhao Wang, Xinyu Ma, ***Xiuqiang He***, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao, in Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2026**
+- ***Data-Driven Function Calling Improvements in Large Language Model for Online Financial QA***, Xing Tang, Hao Chen, Shiwei Li, Fuyuan Lyu, Weijie Shi, Lingjie Li, Dugang Liu, Weihong Luo, Xiku Du, ***Xiuqiang He#***, In Proceedings of the ACM Web Conference 2026, **WebConf 2026**
+- ***BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity***, Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Yichen Li, ***Xiuqiang He***, and Ruixuan Li, In The Fourteenth International Conference on Learning Representations, **ICLR 2026**
+- ***An adaptive length-variation based evolutionary multitasking algorithm for feature selection of high-dimensional classification***, Lingjie Li, Yuze Zhang, Zhijiao Xiao, Qiuzhen Lin, Xin Wang, Xiuqiang He, Ming Zhong, In **Expert Systems With Applications 2026**
+- ***Automated information flow selection for multi-scenario multi-task recommendation***, Chaohua Yang, Dugang Liu, Shiwei Li, Yuwen Fu, Xing Tang, Weihong Luo, Xiangyu Zhao, ***Xiuqiang He***, Zhong Ming, in The 19th ACM International Conference on Web Search and Data Mining, **WSDM 2026**.
 
 **Year 2025**
 - ***Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation***, Ziqiang Cui, Yunpeng Weng, Xing Tang, Xiaokun Zhang, Shiwei Li, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, **Xiuqiang He**, and Chen Ma, In 39th Annual Conference on Neural Information Processing Systems, **NeurIPS 2025**
