@@ -22,32 +22,32 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exciting research opportunities, please don't hesitate to reach out to me via email.
 
 <h1 id="-news"><i class="fas fa-bullhorn sec-icon"></i>News</h1>
-- *2026.05*: &nbsp; Two papers are accepted by KDD Ads 2026.
-- *2026.05*: &nbsp; One paper is accepted by ICML 2026.
-- *2026.04*: &nbsp; One paper is accepted by ACL 2026.
-- *2026.04*: &nbsp; Three papers are accepted by SIGIR 2026.
-- *2026.02*: &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.
-- *2026.01*: &nbsp; One paper is accepted by ICLR 2026.
-- *2026.01*: &nbsp; One paper is accepted by WWW 2026 industry track.
-- *2025.12*: &nbsp; I have been appointed Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.
-- *2025.12*: &nbsp; I will serve on the program committee of SIGIR 2026 as an Area Chair.
-- *2025.10*: &nbsp; One paper is accepted by WSDM 2026.
-- *2025.10*: &nbsp; I will serve on the program committee of WWW2026 as PC Member.
-- *2025.09*: &nbsp; World's Top 2 % Scientists by Stanford (2025).
-- *2025.09*: &nbsp; Two papers are accepted by NeurIPS 2025.
-- *2025.09*: &nbsp; 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI (91st worldwide).
-- *2025.09*: &nbsp; I will serve on the program committee of ICLR 2026 as a Reviewer.
-- *2025.08*: &nbsp; I will serve as a member of the CCIR Committee（中国中文信息学会信息检索专委会委员）.
-- *2025.08*: &nbsp; I will serve on the program committee of industry track at WWW2026 as PC Member.
-- *2025.05*: &nbsp; Two papers are accepted by KDD ADS 2025.
-- *2025.04*: &nbsp; Three papers are accepted by ICML 2025.
-- *2025.04*: &nbsp; I will serve on the program committee of NeurIPS 2025 as a PC Member.
-- *2025.04*: &nbsp; Two papers are accepted by SIGIR 2025.
-- *2025.03*: &nbsp; I will serve on the program committee of ACM MM 2025 as an Area Chair.
-- *2025.01*: &nbsp; I will serve on the program committee of IJCAI 2025 as a SPC Member.
-- *2025.01*: &nbsp; I will serve on the program committee of SIGIR 2025 as a PC Member.
-- *2025.01*: &nbsp; I will serve on the program committee of KDD 2025 ADS track as a PC member.
-- *2025.01*: &nbsp; I will serve on the program committee of ECMLPKDD 2025 as a PC member.
+- *2026.05* &nbsp; Two papers are accepted by KDD Ads 2026.
+- *2026.05* &nbsp; One paper is accepted by ICML 2026.
+- *2026.04* &nbsp; One paper is accepted by ACL 2026.
+- *2026.04* &nbsp; Three papers are accepted by SIGIR 2026.
+- *2026.02* &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.
+- *2026.01* &nbsp; One paper is accepted by ICLR 2026.
+- *2026.01* &nbsp; One paper is accepted by WWW 2026 industry track.
+- *2025.12* &nbsp; I have been appointed Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.
+- *2025.12* &nbsp; I will serve on the program committee of SIGIR 2026 as an Area Chair.
+- *2025.10* &nbsp; One paper is accepted by WSDM 2026.
+- *2025.10* &nbsp; I will serve on the program committee of WWW2026 as PC Member.
+- *2025.09* &nbsp; World's Top 2 % Scientists by Stanford (2025).
+- *2025.09* &nbsp; Two papers are accepted by NeurIPS 2025.
+- *2025.09* &nbsp; 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI (91st worldwide).
+- *2025.09* &nbsp; I will serve on the program committee of ICLR 2026 as a Reviewer.
+- *2025.08* &nbsp; I will serve as a member of the CCIR Committee（中国中文信息学会信息检索专委会委员）.
+- *2025.08* &nbsp; I will serve on the program committee of industry track at WWW2026 as PC Member.
+- *2025.05* &nbsp; Two papers are accepted by KDD ADS 2025.
+- *2025.04* &nbsp; Three papers are accepted by ICML 2025.
+- *2025.04* &nbsp; I will serve on the program committee of NeurIPS 2025 as a PC Member.
+- *2025.04* &nbsp; Two papers are accepted by SIGIR 2025.
+- *2025.03* &nbsp; I will serve on the program committee of ACM MM 2025 as an Area Chair.
+- *2025.01* &nbsp; I will serve on the program committee of IJCAI 2025 as a SPC Member.
+- *2025.01* &nbsp; I will serve on the program committee of SIGIR 2025 as a PC Member.
+- *2025.01* &nbsp; I will serve on the program committee of KDD 2025 ADS track as a PC member.
+- *2025.01* &nbsp; I will serve on the program committee of ECMLPKDD 2025 as a PC member.
 
 <h1 id="-publications"><i class="fas fa-book sec-icon"></i>Publications</h1>
 **Year 2026**
