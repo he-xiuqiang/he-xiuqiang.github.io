@@ -123,9 +123,9 @@ body {
   background-color: #faf9f7;
 }
 
-/* Thin accent bar pinned to the very top (rides with the sticky masthead) */
+/* Thin, soft accent hairline at the very top (rides with the sticky masthead) */
 .masthead {
-  border-top: 3px solid $accent;
+  border-top: 2px solid rgba(53, 56, 205, 0.40);
   background-color: #ffffff;
 }
 
