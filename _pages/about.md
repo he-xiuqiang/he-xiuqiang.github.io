@@ -19,7 +19,7 @@ redirect_from:
 
 Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of Artificial Intelligence](https://ai.sztu.edu.cn/), Dean of the Institute of Artificial Intelligence Technology, [Shenzhen Technology University (SZTU)](https://www.sztu.edu.cn/). His research interests include recommendation systems, information retrieval, online marketing and advertisement, AI for science, and the application of artificial intelligence in real-world scenarios. Prior to his appointment at SZTU, he served as a Senior Director at FiT, Tencent from 2022 to 2024. Before that, he was the Director of the Recommendation and Search Lab at Huawei Noah's Ark Laboratory. He earned his Ph.D. from [the Department of Computer science and Engineering](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2010. He obtained his Master's degree in 2006 and Bachelor's degree in 2003, both from [Xi’an JiaoTong University (XJTU)](https://www.xjtu.edu.cn/). He has published over 130 research papers in top-tier international conferences and journals, and his publications have amassed over 12,000 citations on Google Scholar. He is among the authors of DeepFM, which is one of the most widely used click-through rate prediction algorithms in industry. He was honored with the Best Paper Award at DLP-KDD 2021. Additionally, he holds over 60 families of domestic or international patents. 
 
-📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exicting research opportunities, please don't hesitate to reach out to me via email.
+📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exciting research opportunities, please don't hesitate to reach out to me via email.
 
 # 🔥 News
 - *2026.05*: &nbsp; Two papers are accepted by KDD Ads 2026.
@@ -28,21 +28,21 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - *2026.04*: &nbsp; Three papers are accepted by SIGIR 2026.
 - *2026.02*: &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.
 - *2026.01*: &nbsp; One paper is accepted by ICLR 2026.
-- *2026.01*: &nbsp; One paper is accepted by WWWW 2026 industry track.
+- *2026.01*: &nbsp; One paper is accepted by WWW 2026 industry track.
 - *2025.12*: &nbsp; I have been appointed Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.
 - *2025.12*: &nbsp; I will serve on the program committee of SIGIR 2026 as an Area Chair.
 - *2025.10*: &nbsp; One paper is accepted by WSDM 2026.
 - *2025.10*: &nbsp; I will serve on the program committee of WWW2026 as PC Member.
 - *2025.09*: &nbsp; World's Top 2 % Scientists by Stanford (2025).
-- *2025.09*: &nbsp; Two papers are accpeted by NeurIPS 2025.
+- *2025.09*: &nbsp; Two papers are accepted by NeurIPS 2025.
 - *2025.09*: &nbsp; 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI (91st worldwide).
 - *2025.09*: &nbsp; I will serve on the program committee of ICLR 2026 as a Reviewer.
 - *2025.08*: &nbsp; I will serve as a member of the CCIR Committee（中国中文信息学会信息检索专委会委员）.
 - *2025.08*: &nbsp; I will serve on the program committee of industry track at WWW2026 as PC Member.
-- *2025.05*: &nbsp; Two papers are accpeted by KDD ADS 2025.
-- *2025.04*: &nbsp; Three papers are accpeted by ICML 2025.
+- *2025.05*: &nbsp; Two papers are accepted by KDD ADS 2025.
+- *2025.04*: &nbsp; Three papers are accepted by ICML 2025.
 - *2025.04*: &nbsp; I will serve on the program committee of NeurIPS 2025 as a PC Member.
-- *2025.04*: &nbsp; Two papers are accpeted by SIGIR 2025.
+- *2025.04*: &nbsp; Two papers are accepted by SIGIR 2025.
 - *2025.03*: &nbsp; I will serve on the program committee of ACM MM 2025 as an Area Chair.
 - *2025.01*: &nbsp; I will serve on the program committee of IJCAI 2025 as a SPC Member.
 - *2025.01*: &nbsp; I will serve on the program committee of SIGIR 2025 as a PC Member.
@@ -51,12 +51,12 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 
 # 📝 Publications 
 **Year 2026**
-- ***Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA***，Hao Chen, Xing Tang, Qirui Liu, Weijie Shi, Shiwei Li, Fuyuan Lyu, weihongluo, Xiku Du, ***Xiuqiang He***，in Proceedings of the 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2026**
-- ***AMS: Adaptive Modality Scheduling for Industrial Multi-Scenario CTR Prediction***，Kailiang Hao, Chaohua Yang, WeiZeng, Jianan Su, Kaixin Shen, jingtong wu, Dugang Liu, Xing Tang, Jingyang Bin, ***Xiuqiang He***, Zhong Ming，in Proceedings of the 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2026**
+- ***Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA***，Hao Chen, Xing Tang, Qirui Liu, Weijie Shi, Shiwei Li, Fuyuan Lyu, weihongluo, Xiku Du, ***Xiuqiang He***，in Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2026**
+- ***AMS: Adaptive Modality Scheduling for Industrial Multi-Scenario CTR Prediction***，Kailiang Hao, Chaohua Yang, WeiZeng, Jianan Su, Kaixin Shen, jingtong wu, Dugang Liu, Xing Tang, Jingyang Bin, ***Xiuqiang He***, Zhong Ming，in Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2026**
 - ***Learning from Cognition: Enhancing RL Efficiency for LLM Reasoning via Hierarchical Metacognitive Decomposition and Refinement***，Zexu Sun, Yongcheng Zeng, Erxue Min, Heyang Gao, Bokai Ji, Dugang Liu, Xing Tang, ***Xiuqiang He***, Xu Chen，in The 64th Annual Meeting of the Association for Computational Linguistics, ***ACL***, 2026
 - ***Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation***,Fuyuan Lyu, Zhentai Chen, Jingyan Jiang, Lingjie Li, Xing Tang, ***Xiuqiang He***, Xue Liu, in Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR**, 2026
 - ***FedMM: Federated Collaborative Signal Quantization for Multi-Market CTR Prediction***, Jun Zhang, Dugang Liu, Xing Tang, ***Xiuqiang He***, Zhong Ming, in Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR**, 2026
-- ***DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent***, ongzhou Wu, Yuhao Wang, Xinyu Ma, ***Xiuqiang He***, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao, in Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR**, 2026
+- ***DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent***, Tongzhou Wu, Yuhao Wang, Xinyu Ma, ***Xiuqiang He***, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao, in Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR**, 2026
 - ***Data-Driven Function Calling Improvements in Large Language Model for Online Financial QA***, Xing Tang, Hao Chen, Shiwei Li, Fuyuan Lyu, Weijie Shi, Lingjie Li, Dugang Liu, Weihong Luo, Xiku Du, ***Xiuqiang He#***, In Proceedings of the ACM Web Conference 2026, ***WebConf***, 2026
 - ***BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity***, Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Yichen Li, ***Xiuqiang He***, and Ruixuan Li, In The Fourteenth International Conference on Learning Representations, ***ICLR***, 2026
 - ***An adaptive length-variation based evolutionary multitasking algorithm for feature selection of high-dimensional classification***, Lingjie Li, Yuze Zhang, Zhijiao Xiao, Qiuzhen Lin, Xin Wang, Xiuqiang He, Ming Zhong, In ***Expert Systems With Applications***, 2026
@@ -67,7 +67,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - ***Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation***，Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, **Xiuqiang He**, and Ruixuan Li, In 39th Annual Conference on Neural Information Processing Systems, **NeurIPS**, 2025
 - ***Retrieval Augmented Cross-Domain LifeLong Behavior Modeling for Enhancing Click-through Rate Prediction***，Xing Tang , Chaohua Yang, Yuwen Fu, Dongyang Ao, Shiwei Li, Fuyuan Lyu, Dugang Liu, and **Xiuqiang He**，Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2025**
 
-- ***Timing is important: Risk-aware Fund Allocation based on Time-Series Forcasting***，Fuyuan Lyu, Linfeng Du, Yunpeng Weng, Qiufang Ying, Zhiyan Xu, Wen Zou, Haolun Wu, **Xiuqiang He**, and Xing Tang，Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2025**
+- ***Timing is important: Risk-aware Fund Allocation based on Time-Series Forecasting***，Fuyuan Lyu, Linfeng Du, Yunpeng Weng, Qiufang Ying, Zhiyan Xu, Wen Zou, Haolun Wu, **Xiuqiang He**, and Xing Tang，Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2025**
 
 - ***The Panaceas for Improving Low-Rank Decomposition in Communication-Efficient Federated Learning***,
 Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang , Shijie Xu, Weihong Luo, Yuhua Li, **Xiuqiang He**, and Ruixuan Li，42nd International Conference on Machine Learning, **ICML 2025**
@@ -76,9 +76,9 @@ Zexu Sun, Qiyu Han, Hao Yang, Anpeng Wu, Minqin Zhu, Dugang Liu, Chen Ma, Yunpen
 42nd International Conference on Machine Learning, **ICML 2025**
 - ***Beyond Zero Initialization: Investigating the Impact of Non-Zero Initialization on LoRA Fine-Tuning Dynamics***,
 Shiwei Li, Xiandi Luo, Xing Tang , Haozhao Wang, Hao Chen, Weihong Luo, Yuhua Li, **Xiuqiang He**, and Ruixuan Li, 42nd International Conference on Machine Learning, **ICML 2025**
-- ***Timing is important: Risk-aware Fund Allocation based on Time-Series Forcasting***，Fuyuan Lyu, Linfeng Du, Yunpeng Weng, Qiufang Ying, Zhiyan Xu, Wen Zou, Haolun Wu, **Xiuqiang He**, and Xing Tang，The Thirteenth International Conference on Learning Representations Workshop Advances in Financial AI, **Financial AI@ICLR 2025**
+- ***Timing is important: Risk-aware Fund Allocation based on Time-Series Forecasting***，Fuyuan Lyu, Linfeng Du, Yunpeng Weng, Qiufang Ying, Zhiyan Xu, Wen Zou, Haolun Wu, **Xiuqiang He**, and Xing Tang，The Thirteenth International Conference on Learning Representations Workshop Advances in Financial AI, **Financial AI@ICLR 2025**
 - ***Comprehending Knowledge Graphs with Large Language Models for Recommender Systems***，Ziqiang Cui, Yunpeng Weng, Xing Tang , Fuyuan Lyu, Dugang Liu, **Xiuqiang He**, and Chen Ma，Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2025**
-- ***Multi-scenario Instance Embedding Learning for Deep Recommneder Systems***，Chaohua Yang, Dugang Liu, Xing Tang , Yuwen Fu, **Xiuqiang He**, Xiangyu Zhao, and Ming Zhong，Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2025**
+- ***Multi-scenario Instance Embedding Learning for Deep Recommender Systems***，Chaohua Yang, Dugang Liu, Xing Tang , Yuwen Fu, **Xiuqiang He**, Xiangyu Zhao, and Ming Zhong，Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, **SIGIR 2025**
 - ***Policy-aware Reward Modeling with Uncertainty-Gradient based Data Augmentation***, Zexu Sun, Yiju Guo, Yankai Lin, Xu Chen, Qi Qi, Xing Tang , **Xiuqiang He**, and Ji-Rong Wen, The Thirteenth International Conference on Learning Representations, **ICLR 2025**
 - ***Scenario Shared Instance Modeling for Click-through Rate Prediction***，Dugang Liu, Chaohua Yang, Yuwen Fu, Xing Tang, Gongfu Li, Fuyuan Lyu, **Xiuqiang He**, and Zhong Ming，Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2025**
 - ***Fusion Matters: Learning Fusion in Deep Click-through Rate Prediction Models***, Kexin Zhang, Fuyuan Lyu, Xing Tang, Dugang Liu, Chen Ma, Kaize Ding, **Xiuqiang He**, and Xue Liu, Proceedings of the 18th ACM International Conference on Web Search and Data Mining, **WSDM 2025**
@@ -114,7 +114,7 @@ Proceedings of the 2024 SIAM International Conference on Data Mining, **SDM 2024
 Database Systems for Advanced Applications - 28th International Conference, **DASFAA 2023**
 - ***Debiased recommendation with user feature balancing***, Mengyue Yang, Guohao Cai, Furui Liu, Jiarui Jin, Zhenhua Dong, **Xiuqiang He**, Jianye Hao, Weiqi Shao, Jun Wang, Xu Chen, ACM Transactions on Information Systems, **TOIS**
 
-Full paper list available at [My Goolge Scholar](https://scholar.google.com/citations?user=3lprwmsAAAAJ)
+Full paper list available at [My Google Scholar](https://scholar.google.com/citations?user=3lprwmsAAAAJ)
 
 # 👪 Group
 -  ***[Prof. Xing Tang](https://xingt-tang.github.io/)***
