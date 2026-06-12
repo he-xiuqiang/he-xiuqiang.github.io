@@ -117,11 +117,11 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 **Year 2022**
 
 - ***A Cooperative Neural Information Retrieval Pipeline with Knowledge Enhanced Automatic Query Reformulation***, Xiangsheng Li, Jiaxin Mao, Weizhi Ma, Zhijing Wu, Yiqun Liu, Min Zhang, Shaoping Ma, Zhaowei Wang, **Xiuqiang He**, **WSDM 2022**
-- ***Beyond Relevance Ranking: A General Graph Matching Framework for Utility-Oriented Learning to Rank***, Xinyi Dai, Yunjia Xi, Weinan Zhang, Qing Liu, Ruiming Tang, **Xiuqiang He**, Jiawei Hou, Jun Wang, Yong Yu, **ACM Trans. Inf. Syst. 2022**
-- ***Click-through rate prediction using transfer learning with fine-tuned parameters***, Xiangli Yang, Qing Liu, Rong Su, Ruiming Tang, Zhirong Liu, **Xiuqiang He**, Jianxi Yang, **Inf. Sci. 2022**
+- ***Beyond Relevance Ranking: A General Graph Matching Framework for Utility-Oriented Learning to Rank***, Xinyi Dai, Yunjia Xi, Weinan Zhang, Qing Liu, Ruiming Tang, **Xiuqiang He**, Jiawei Hou, Jun Wang, Yong Yu, **ACM Transactions on Information Systems 2022**
+- ***Click-through rate prediction using transfer learning with fine-tuned parameters***, Xiangli Yang, Qing Liu, Rong Su, Ruiming Tang, Zhirong Liu, **Xiuqiang He**, Jianxi Yang, **Information Sciences 2022**
 - ***Contrastive Learning with Positive-Negative Frame Mask for Music Representation***, Dong Yao, Zhou Zhao, Shengyu Zhang, Jieming Zhu, Yudong Zhu, Rui Zhang, **Xiuqiang He**, **WWW 2022**
 - ***Hierarchical Imitation Learning via Subgoal Representation Learning for Dynamic Treatment Recommendation***, Lu Wang, Ruiming Tang, Xiaofeng He, **Xiuqiang He**, **WSDM 2022**
-- ***IPGAN: Generating Informative Item Pairs by Adversarial Sampling***, Guibing Guo, Huan Zhou, Bowei Chen, Zhirong Liu, Xiao Xu, Xu Chen, Zhenhua Dong, **Xiuqiang He**, **IEEE Trans. Neural Networks Learn. Syst. 2022**
+- ***IPGAN: Generating Informative Item Pairs by Adversarial Sampling***, Guibing Guo, Huan Zhou, Bowei Chen, Zhirong Liu, Xiao Xu, Xu Chen, Zhenhua Dong, **Xiuqiang He**, **IEEE Transactions on Neural Networks and Learning Systems 2022**
 - ***Improving Knowledge Tracing with Collaborative Information***, Ting Long, Jiarui Qin, Jian Shen, Weinan Zhang, Wei Xia, Ruiming Tang, **Xiuqiang He**, Yong Yu, **WSDM 2022**
 - ***MISS: Multi-Interest Self-Supervised Learning Framework for Click-Through Rate Prediction***, Wei Guo, Can Zhang, Zhicheng He, Jiarui Qin, Huifeng Guo, Bo Chen, Ruiming Tang, **Xiuqiang He**, Rui Zhang, **ICDE 2022**
 - ***Memorize, Factorize, or be Naive: Learning Optimal Feature Interaction Methods for CTR Prediction***, Fuyuan Lyu, Xing Tang, Huifeng Guo, Ruiming Tang, **Xiuqiang He**, Rui Zhang, Xue Liu, **ICDE 2022**
@@ -134,7 +134,7 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 
 - ***A Graph-Enhanced Click Model for Web Search***, Jianghao Lin, Weiwen Liu, Xinyi Dai, Weinan Zhang, Shuai Li, Ruiming Tang, **Xiuqiang He**, Jianye Hao, Yong Yu, **SIGIR 2021**
 - ***AMM: Attentive Multi-field Matching for News Recommendation***, Qi Zhang, Qinglin Jia, Chuyuan Wang, Jingjie Li, Zhaowei Wang, **Xiuqiang He**, **SIGIR 2021**
-- ***Adaptive Spatio-Temporal Graph Enhanced Vision-Language Representation for Video QA***, Weike Jin, Zhou Zhao, Xiaochun Cao, Jieming Zhu, **Xiuqiang He**, Yueting Zhuang, **IEEE Trans. Image Process. 2021**
+- ***Adaptive Spatio-Temporal Graph Enhanced Vision-Language Representation for Video QA***, Weike Jin, Zhou Zhao, Xiaochun Cao, Jieming Zhu, **Xiuqiang He**, Yueting Zhuang, **IEEE Transactions on Image Processing 2021**
 - ***An Adversarial Imitation Click Model for Information Retrieval***, Xinyi Dai, Jianghao Lin, Weinan Zhang, Shuai Li, Weiwen Liu, Ruiming Tang, **Xiuqiang He**, Jianye Hao, Jun Wang, Yong Yu, **WWW 2021**
 - ***An Embedding Learning Framework for Numerical Features in CTR Prediction***, Huifeng Guo, Bo Chen, Ruiming Tang, Weinan Zhang, Zhenguo Li, **Xiuqiang He**, **KDD 2021**
 - ***BiPS: Hotness-aware Bi-tier Parameter Synchronization for Recommendation Models***, Qiming Zheng, Quan Chen, Kaihao Bai, Huifeng Guo, Yong Gao, **Xiuqiang He**, Minyi Guo, **IPDPS 2021**
@@ -146,8 +146,8 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 - ***Graph Heterogeneous Multi-Relational Recommendation***, Chong Chen, Weizhi Ma, Min Zhang, Zhaowei Wang, **Xiuqiang He**, Chenyang Wang, Yiqun Liu, Shaoping Ma, **AAAI 2021**
 - ***Hierarchical Cross-Modal Graph Consistency Learning for Video-Text Retrieval***, Weike Jin, Zhou Zhao, Pengcheng Zhang, Jieming Zhu, **Xiuqiang He**, Yueting Zhuang, **SIGIR 2021**
 - ***Mitigating Confounding Bias in Recommendation via Information Bottleneck***, Dugang Liu, Pengxiang Cheng, Hong Zhu, Zhenhua Dong, **Xiuqiang He**, Weike Pan, Zhong Ming, **RecSys 2021**
-- ***Mobile App Cross-Domain Recommendation with Multi-Graph Neural Network***, Yi Ouyang, Bin Guo, Xing Tang, **Xiuqiang He**, Jian Xiong, Zhiwen Yu, **ACM Trans. Knowl. Discov. Data 2021**
-- ***Modeling High-order Interactions across Multi-interests for Micro-video Reommendation (Student Abstract)***, Dong Yao, Shengyu Zhang, Zhou Zhao, Wenyan Fan, Jieming Zhu, **Xiuqiang He**, Fei Wu, **AAAI 2021**
+- ***Mobile App Cross-Domain Recommendation with Multi-Graph Neural Network***, Yi Ouyang, Bin Guo, Xing Tang, **Xiuqiang He**, Jian Xiong, Zhiwen Yu, **ACM Transactions on Knowledge Discovery from Data 2021**
+- ***Modeling High-order Interactions across Multi-interests for Micro-video Recommendation (Student Abstract)***, Dong Yao, Shengyu Zhang, Zhou Zhao, Wenyan Fan, Jieming Zhu, **Xiuqiang He**, Fei Wu, **AAAI 2021**
 - ***Open Benchmarking for Click-Through Rate Prediction***, Jieming Zhu, Jinyang Liu, Shuai Yang, Qi Zhang, **Xiuqiang He**, **CIKM 2021**
 - ***QA4PRF: A Question Answering Based Framework for Pseudo Relevance Feedback***, Handong Ma, Jiawei Hou, Chenxu Zhu, Weinan Zhang, Ruiming Tang, Jincai Lai, Jieming Zhu, **Xiuqiang He**, Yong Yu, **IEEE Access 2021**
 - ***RMBERT: News Recommendation via Recurrent Reasoning Memory Network over BERT***, Qinglin Jia, Jingjie Li, Qi Zhang, **Xiuqiang He**, Jieming Zhu, **SIGIR 2021**
@@ -185,16 +185,16 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 - ***Neighbor Interaction Aware Graph Convolution Networks for Recommendation***, Jianing Sun, Yingxue Zhang, Wei Guo, Huifeng Guo, Ruiming Tang, **Xiuqiang He**, Chen Ma, Mark Coates, **SIGIR 2020**
 - ***Personalized Re-ranking with Item Relationships for E-commerce***, Weiwen Liu, Qing Liu, Ruiming Tang, Junyang Chen, **Xiuqiang He**, Pheng-Ann Heng, **CIKM 2020**
 - ***Regularized Two-Branch Proposal Networks for Weakly-Supervised Moment Retrieval in Videos***, Zhu Zhang, Zhijie Lin, Zhou Zhao, Jieming Zhu, **Xiuqiang He**, **ACM Multimedia 2020**
-- ***State representation modeling for deep reinforcement learning based recommendation***, Feng Liu, Ruiming Tang, Xutao Li, Weinan Zhang, Yunming Ye, Haokun Chen, Huifeng Guo, Yuzhou Zhang, **Xiuqiang He**, **Knowl. Based Syst. 2020**
+- ***State representation modeling for deep reinforcement learning based recommendation***, Feng Liu, Ruiming Tang, Xutao Li, Weinan Zhang, Yunming Ye, Haokun Chen, Huifeng Guo, Yuzhou Zhang, **Xiuqiang He**, **Knowledge-Based Systems 2020**
 - ***TGCN: Tag Graph Convolutional Network for Tag-Aware Recommendation***, Bo Chen, Wei Guo, Ruiming Tang, Xin Xin, Yue Ding, **Xiuqiang He**, Dong Wang, **CIKM 2020**
 - ***Top-aware reinforcement learning based recommendation***, Feng Liu, Ruiming Tang, Huifeng Guo, Xutao Li, Yunming Ye, **Xiuqiang He**, **Neurocomputing 2020**
 - ***U-rank: Utility-oriented Learning to Rank with Implicit Feedback***, Xinyi Dai, Jiawei Hou, Qing Liu, Yunjia Xi, Ruiming Tang, Weinan Zhang, **Xiuqiang He**, Jun Wang, Yong Yu, **CIKM 2020**
 
 **Year 2019**
 
-- ***Model-free inference of diffusion networks using RKHS embeddings***, Shoubo Hu, Bogdan Cautis, Zhitang Chen, Laiwan Chan, Yanhui Geng, **Xiuqiang He**, **Data Min. Knowl. Discov. 2019**
+- ***Model-free inference of diffusion networks using RKHS embeddings***, Shoubo Hu, Bogdan Cautis, Zhitang Chen, Laiwan Chan, Yanhui Geng, **Xiuqiang He**, **Data Mining and Knowledge Discovery 2019**
 - ***Multi-graph Convolution Collaborative Filtering***, Jianing Sun, Yingxue Zhang, Chen Ma, Mark Coates, Huifeng Guo, Ruiming Tang, **Xiuqiang He**, **ICDM 2019**
-- ***Product-Based Neural Networks for User Response Prediction over Multi-Field Categorical Data***, Yanru Qu, Bohui Fang, Weinan Zhang, Ruiming Tang, Minzhe Niu, Huifeng Guo, Yong Yu, **Xiuqiang He**, **ACM Trans. Inf. Syst. 2019**
+- ***Product-Based Neural Networks for User Response Prediction over Multi-Field Categorical Data***, Yanru Qu, Bohui Fang, Weinan Zhang, Ruiming Tang, Minzhe Niu, Huifeng Guo, Yong Yu, **Xiuqiang He**, **ACM Transactions on Information Systems 2019**
 
 **Year 2018**
 
