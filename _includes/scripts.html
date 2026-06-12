@@ -2,3 +2,19 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<!-- Style the trailing venue (bold text ending in a year) of each publication
+     as a pill. Scoped by the year pattern, so non-publication lists are untouched. -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var yearRe = /\b(19|20)\d{2}\b/;
+    document.querySelectorAll('.page__content li').forEach(function (li) {
+      var strongs = li.querySelectorAll('strong');
+      if (!strongs.length) return;
+      var last = strongs[strongs.length - 1];
+      if (yearRe.test(last.textContent)) {
+        last.classList.add('venue');
+      }
+    });
+  });
+</script>
