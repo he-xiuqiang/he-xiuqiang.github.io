@@ -4,16 +4,34 @@
 {% include fetch_google_scholar_stats.html %}
 
 <!-- Style the trailing venue (bold text ending in a year) of each publication
-     as a pill. Scoped by the year pattern, so non-publication lists are untouched. -->
+     as a pill, and append its CCF rank badge. Scoped by the year pattern, so
+     non-publication lists are untouched. -->
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     var yearRe = /\b(19|20)\d{2}\b/;
+    // Venue (acronym or full journal name) -> CCF rank. Absent = unranked (no badge).
+    var CCF = {
+      'SIGIR':'A','KDD':'A','AAAI':'A','NeurIPS':'A','MM':'A','ICML':'A','WWW':'A','WebConf':'A',
+      'IJCAI':'A','ICDE':'A','ACL':'A','CVPR':'A','TOIS':'A',
+      'ACM Transactions on Information Systems':'A','IEEE Transactions on Image Processing':'A',
+      'CIKM':'B','WSDM':'B','RecSys':'B','DASFAA':'B','SDM':'B','ICDM':'B','IPDPS':'B','ECML-PKDD':'B',
+      'Data Mining and Knowledge Discovery':'B','ACM Transactions on Knowledge Discovery from Data':'B',
+      'IEEE Transactions on Neural Networks and Learning Systems':'B','Information Sciences':'B',
+      'MDM':'C','Neurocomputing':'C','Knowledge-Based Systems':'C','Expert Systems With Applications':'C'
+    };
     document.querySelectorAll('.page__content li').forEach(function (li) {
       var strongs = li.querySelectorAll('strong');
       if (!strongs.length) return;
       var last = strongs[strongs.length - 1];
-      if (yearRe.test(last.textContent)) {
-        last.classList.add('venue');
+      if (!yearRe.test(last.textContent)) return;
+      last.classList.add('venue');
+      var key = last.textContent.replace(/\s+(19|20)\d{2}\s*\.?$/, '').trim();
+      var rank = CCF[key];
+      if (rank) {
+        var span = document.createElement('span');
+        span.className = 'ccf ccf-' + rank.toLowerCase();
+        span.textContent = 'CCF-' + rank;
+        last.parentNode.insertBefore(span, last.nextSibling);
       }
     });
   });

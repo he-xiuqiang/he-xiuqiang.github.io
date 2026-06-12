@@ -193,3 +193,19 @@ a {
   white-space: nowrap;
   vertical-align: baseline;
 }
+
+/* CCF rank badge, inserted by script right after the venue pill. */
+.page__content li span.ccf {
+  display: inline-block;
+  font-weight: 700;
+  font-size: 0.72em;
+  letter-spacing: 0.02em;
+  border-radius: 6px;
+  padding: 0.05em 0.45em;
+  margin-left: 0.3em;
+  white-space: nowrap;
+  vertical-align: baseline;
+}
+.page__content li span.ccf-a { color: #b3261e; background: rgba(179, 38, 30, 0.10); border: 1px solid rgba(179, 38, 30, 0.22); }
+.page__content li span.ccf-b { color: #1d6fb8; background: rgba(29, 111, 184, 0.10); border: 1px solid rgba(29, 111, 184, 0.22); }
+.page__content li span.ccf-c { color: #5f6b7a; background: rgba(95, 107, 122, 0.10); border: 1px solid rgba(95, 107, 122, 0.22); }
