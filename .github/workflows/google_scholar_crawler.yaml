@@ -1,10 +1,9 @@
 name: Get Citation Data
 
+# Auto-triggers (schedule / page_build) disabled: citations are maintained
+# manually. Run on demand via the Actions tab (workflow_dispatch) if needed.
 on:
  workflow_dispatch:
- page_build:
- schedule:
-  - cron:  '0 8 * * *'
 
 jobs:
   build:
