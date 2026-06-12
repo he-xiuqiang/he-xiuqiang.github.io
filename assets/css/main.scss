@@ -122,26 +122,6 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-/* Language switch button, pinned to the top-right of the masthead */
-.masthead__inner-wrap { position: relative; }
-.lang-switch {
-  position: absolute;
-  right: 0.7em;
-  top: 0.5em;
-  z-index: 11;
-  font-family: $sans-serif;
-  font-size: 0.85em;
-  font-weight: 600;
-  color: $accent;
-  background: rgba(9, 105, 218, 0.06);
-  border: 1px solid rgba(9, 105, 218, 0.30);
-  border-radius: 6px;
-  padding: 0.15em 0.7em;
-  line-height: 1.7;
-  transition: background 0.15s ease;
-  &:hover { background: rgba(9, 105, 218, 0.14); text-decoration: none; }
-}
-
 /* Section headers (rendered as <h1> from `# Title`): heavier, with a thin rule */
 .page__content {
   h1 {
