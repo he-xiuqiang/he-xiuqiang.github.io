@@ -26,10 +26,14 @@
       if (!yearRe.test(last.textContent)) return;
       last.classList.add('venue');
       var key = last.textContent.replace(/\s+(19|20)\d{2}\s*\.?$/, '').trim();
+      var ym = last.textContent.match(/(19|20)\d{2}/);
+      var year = ym ? parseInt(ym[0], 10) : 0;
       var rank = CCF[key];
+      // ICLR has no official CCF rank; tag only the 2026+ paper as A.
+      if (key === 'ICLR') rank = (year >= 2026) ? 'A' : undefined;
       if (rank) {
         var span = document.createElement('span');
-        span.className = 'ccf ccf-' + rank.toLowerCase();
+        span.className = 'ccf';
         span.textContent = 'CCF-' + rank;
         last.parentNode.insertBefore(span, last.nextSibling);
       }
