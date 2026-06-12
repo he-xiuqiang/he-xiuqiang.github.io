@@ -23,3 +23,29 @@ main:
 
   - title: "Others"
     url: "/#-educations"
+
+# Chinese nav (used on the /cn/ page)
+main_cn:
+  - title: "关于我"
+    url: "/cn/#about-me"
+
+  - title: "最新动态"
+    url: "/cn/#-news"
+
+  - title: "论文"
+    url: "/cn/#-publications"
+
+  - title: "团队"
+    url: "/cn/#-group"
+
+  - title: "学术服务"
+    url: "/cn/#-services"
+
+  - title: "获奖"
+    url: "/cn/#-awards"
+
+  - title: "教学"
+    url: "/cn/#-teaching"
+
+  - title: "其他"
+    url: "/cn/#-educations"
