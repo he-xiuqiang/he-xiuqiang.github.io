@@ -52,7 +52,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 # 📝 Publications 
 **Year 2026**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/500x300.png' alt='Fighting Numerical Hallucinations' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/papers/fighting-numerical-hallucinations.png' alt='Fighting Numerical Hallucinations' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA**
@@ -61,7 +61,7 @@ Hao Chen, Xing Tang, Qirui Liu, Weijie Shi, Shiwei Li, Fuyuan Lyu, Weihong Luo, 
 
 *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026*
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/500x300.png' alt='Adaptive Modality Scheduling' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/papers/ams-modality-scheduling.png' alt='Adaptive Modality Scheduling' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AMS: Adaptive Modality Scheduling for Industrial Multi-Scenario CTR Prediction**
@@ -70,7 +70,7 @@ Kailiang Hao, Chaohua Yang, Wei Zeng, Jianan Su, Kaixin Shen, Jingtong Wu, Dugan
 
 *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026*
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt='Learning from Cognition' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/papers/learning-from-cognition.png' alt='Learning from Cognition' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning from Cognition: Enhancing RL Efficiency for LLM Reasoning via Hierarchical Metacognitive Decomposition and Refinement**
@@ -79,7 +79,7 @@ Zexu Sun, Yongcheng Zeng, Erxue Min, Heyang Gao, Bokai Ji, Dugang Liu, Xing Tang
 
 *The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026*
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/500x300.png' alt='Exploring Test-time Scaling' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/papers/exploring-test-time-scaling.png' alt='Exploring Test-time Scaling' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**
@@ -88,7 +88,7 @@ Fuyuan Lyu, Zhentai Chen, Jingyan Jiang, Lingjie Li, Xing Tang, **Xiuqiang He**,
 
 *Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026*
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/500x300.png' alt='FedMM' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/papers/fedmm.png' alt='FedMM' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FedMM: Federated Collaborative Signal Quantization for Multi-Market CTR Prediction**
@@ -97,7 +97,7 @@ Jun Zhang, Dugang Liu, Xing Tang, **Xiuqiang He**, Zhong Ming
 
 *Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026*
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/500x300.png' alt='DeepResearch-9K' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/papers/deepresearch-9k.png' alt='DeepResearch-9K' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent**
@@ -106,7 +106,7 @@ Tongzhou Wu, Yuhao Wang, Xinyu Ma, **Xiuqiang He**, Shuaiqiang Wang, Dawei Yin, 
 
 *Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026*
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/500x300.png' alt='Data-Driven Function Calling' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/papers/data-driven-function-calling.png' alt='Data-Driven Function Calling' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Data-Driven Function Calling Improvements in Large Language Model for Online Financial QA**
@@ -115,7 +115,7 @@ Xing Tang, Hao Chen, Shiwei Li, Fuyuan Lyu, Weijie Shi, Lingjie Li, Dugang Liu, 
 
 *In Proceedings of the ACM Web Conference 2026 (WWW), 2026*
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/500x300.png' alt='BoRA' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/bora.png' alt='BoRA' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity**
@@ -133,7 +133,7 @@ Lingjie Li, Yuze Zhang, Zhijiao Xiao, Qiuzhen Lin, Xin Wang, **Xiuqiang He**, Mi
 
 *Expert Systems With Applications (ESWA), 2026*
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2026</div><img src='images/500x300.png' alt='Automated information flow selection' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2026</div><img src='images/papers/autoifs.png' alt='Automated information flow selection' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Automated information flow selection for multi-scenario multi-task recommendation**
