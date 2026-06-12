@@ -21,7 +21,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exciting research opportunities, please don't hesitate to reach out to me via email.
 
-# 🔥 News
+<h1 id="-news"><i class="fas fa-bullhorn sec-icon"></i>News</h1>
 - *2026.05*: &nbsp; Two papers are accepted by KDD Ads 2026.
 - *2026.05*: &nbsp; One paper is accepted by ICML 2026.
 - *2026.04*: &nbsp; One paper is accepted by ACL 2026.
@@ -49,7 +49,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - *2025.01*: &nbsp; I will serve on the program committee of KDD 2025 ADS track as a PC member.
 - *2025.01*: &nbsp; I will serve on the program committee of ECMLPKDD 2025 as a PC member.
 
-# 📝 Publications 
+<h1 id="-publications"><i class="fas fa-book sec-icon"></i>Publications</h1>
 **Year 2026**
 - ***Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA***，Hao Chen, Xing Tang, Qirui Liu, Weijie Shi, Shiwei Li, Fuyuan Lyu, weihongluo, Xiku Du, ***Xiuqiang He***，in Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2026**
 - ***AMS: Adaptive Modality Scheduling for Industrial Multi-Scenario CTR Prediction***，Kailiang Hao, Chaohua Yang, WeiZeng, Jianan Su, Kaixin Shen, jingtong wu, Dugang Liu, Xing Tang, Jingyang Bin, ***Xiuqiang He***, Zhong Ming，in Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2026**
@@ -209,7 +209,7 @@ Database Systems for Advanced Applications - 28th International Conference, **DA
 
 Full paper list available at [My Google Scholar](https://scholar.google.com/citations?user=3lprwmsAAAAJ)
 
-# 👪 Group
+<h1 id="-group"><i class="fas fa-users sec-icon"></i>Group</h1>
 -  ***[Prof. Xing Tang](https://xingt-tang.github.io/)***
 -  ***[Prof. Lingjie Li](https://scholar.google.com/citations?user=0SatikoAAAAJ&hl=zh-TW)***
 -  ***Students:*** Jingyang Bin, Jiawei Lin, Hanchong Chen, Jie Liu, Yongwei Li, Jun Zhang, ChengLin Luo, Yaoshuo Wu, XiongFeng Shan, Lietai Hong, Zhiyu Zhang
@@ -220,13 +220,13 @@ Full paper list available at [My Google Scholar](https://scholar.google.com/cita
 -  ***[Dr. Fuyuan Lyu](https://fuyuanlyu.github.io/)*** (McGill University)
 -  ***[Dr. Shiwei Li](https://leopold1423.github.io/)*** (Huazhong University of Science and Technology)
 
-# 💁🏻 Services
+<h1 id="-services"><i class="fas fa-clipboard-check sec-icon"></i>Services</h1>
 - PC member of ECMLPKDD 2025,KDD ADS 2025,SIGIR 2025,NeurIPS 2025,WWW 2026,ICLR 2026
 - SPC/AC of IJCAI 2025,MM2025
 - Co-Program Chair of [ICMLCA 2025](https://www.icmlca.org/)
 - Member of the CCIR Committee (中国中文信息学会信息检索专委会委员), since 2025.08
 
-# 🏅 Awards
+<h1 id="-awards"><i class="fas fa-award sec-icon"></i>Awards</h1>
 - 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
 - 2025 AI 2000 Most Influential Scholar Award Honorable Mention in SIGIR/RecSys/WWW
 - 2024 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI
@@ -236,15 +236,15 @@ Full paper list available at [My Google Scholar](https://scholar.google.com/cita
 - Huawei Gold Individual Award, 2012
 - Huawei Gold Team Award, 2011
 
-# 👩🏻‍🏫 Teaching
+<h1 id="-teaching"><i class="fas fa-chalkboard-teacher sec-icon"></i>Teaching</h1>
 - Fall 2025,  ***Intelligent Recommender Systems: Application and Practice（智能推荐系统应用与实践）***
   
-# 🏫 Educations
+<h1 id="-educations"><i class="fas fa-graduation-cap sec-icon"></i>Educations</h1>
 - *2006.07 - 2010.07*, Ph.D, Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST)
 - *2003.09 - 2006.07*, Master, Computer Science and Technology, Xi'an Jiaotong University
 - *1999.09 - 2003.07*, Bachelor, Computer Science and Technology, Xi'an Jiaotong University
 
-# 💻 Industry Experiences
+<h1 id="-industry-experiences"><i class="fas fa-briefcase sec-icon"></i>Industry Experiences</h1>
 - *2022.01 - 2025.01*, Senior Director, Principle Expert Researcher, Intelligent Application Center, FiT, Tencent
 - *2019.07 - 2021.12*, Director, Senior Researcher, Recommendation and search Lab, Noah's Ark Lab, Huawei
 - *2018.05 - 2019.07*, Expert, PCG, Tencent

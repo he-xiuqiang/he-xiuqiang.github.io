@@ -129,7 +129,8 @@ body {
   background-color: #ffffff;
 }
 
-/* Section headers (rendered as <h1> from `# Title`): heavier, with a thin rule */
+/* Section headers (rendered as <h1>): heavier, with a thin rule and an
+   accent-colored Font Awesome icon. */
 .page__content {
   h1 {
     font-size: 1.55em;
@@ -138,6 +139,13 @@ body {
     margin-top: 2.2em;
     padding-bottom: 0.35em;
     border-bottom: 1px solid #eaecef;
+  }
+
+  h1 .sec-icon {
+    color: $accent;
+    margin-right: 0.5em;
+    font-size: 0.82em;
+    vertical-align: baseline;
   }
 
   /* tighter, more readable lists */
