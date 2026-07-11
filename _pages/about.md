@@ -22,6 +22,8 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exciting research opportunities, please don't hesitate to reach out to me via email.
 
 <h1 id="-news"><i class="fas fa-bullhorn sec-icon"></i>News</h1>
+- *2026.07* : &nbsp; One paper is accepted by MM 2026.
+- *2026.07* : &nbsp; One paper is accepted by RecSys 2026.
 - *2026.07* : &nbsp; I will serve on the program committee of SIGIR-AP 2026 as a senior PC member.
 - *2026.06* : &nbsp; I have been appointed Deputy Chair of the Fourth Professors Committee of Shenzhen Technology University.
 - *2026.05* : &nbsp; Two papers are accepted by KDD Ads 2026.
