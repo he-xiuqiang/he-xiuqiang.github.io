@@ -22,11 +22,12 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exciting research opportunities, please don't hesitate to reach out to me via email.
 
 <h1 id="-news"><i class="fas fa-bullhorn sec-icon"></i>News</h1>
+- *2026.09* : &nbsp; I have been appointed as Deputy Dean of the School of Artificial Intelligence, Shenzhen Technology University.
 - *2026.08* : &nbsp; One paper is accepted by CIKM 2026.
 - *2026.07* : &nbsp; One paper is accepted by MM 2026.
 - *2026.07* : &nbsp; One paper is accepted by RecSys 2026.
 - *2026.07* : &nbsp; I will serve on the program committee of SIGIR-AP 2026 as a senior PC member.
-- *2026.06* : &nbsp; I have been appointed Deputy Chair of the Fourth Professors Committee of Shenzhen Technology University.
+- *2026.06* : &nbsp; I have been appointed as Deputy Chair of the Fourth Professors Committee of Shenzhen Technology University.
 - *2026.05* : &nbsp; Two papers are accepted by KDD Ads 2026.
 - *2026.05* : &nbsp; One paper is accepted by ICML 2026.
 - *2026.04* : &nbsp; One paper is accepted by ACL 2026.
@@ -34,7 +35,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - *2026.02* : &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.
 - *2026.01* : &nbsp; One paper is accepted by ICLR 2026.
 - *2026.01* : &nbsp; One paper is accepted by WWW 2026 industry track.
-- *2025.12* : &nbsp; I have been appointed Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.
+- *2025.12* : &nbsp; I have been appointed as Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.
 - *2025.12* : &nbsp; I will serve on the program committee of SIGIR 2026 as an Area Chair.
 - *2025.10* : &nbsp; One paper is accepted by WSDM 2026.
 - *2025.10* : &nbsp; I will serve on the program committee of WWW2026 as PC Member.
