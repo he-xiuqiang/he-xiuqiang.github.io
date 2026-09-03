@@ -57,6 +57,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 
 <h1 id="-publications"><i class="fas fa-book sec-icon"></i>Publications</h1>
 **Year 2026**
+- ***Bridge the Unseen Gap: Enhancing Non-overlapping Cross-domain CTR Prediction via Profile Retrieval***，Jingyang Bin, Xing Tang, Wei Zeng, Jianan Su, Kaixin Shen, Jingtong Wu, Chaohua Yang, Kailiang Hao, Dugang Liu and ***Xiuqiang He***，Proceedings of the 20th ACM Conference on Recommender Systems, **Recsys2024**
 - ***Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA***，Hao Chen, Xing Tang, Qirui Liu, Weijie Shi, Shiwei Li, Fuyuan Lyu, weihongluo, Xiku Du, ***Xiuqiang He***，in Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2026**
 - ***AMS: Adaptive Modality Scheduling for Industrial Multi-Scenario CTR Prediction***，Kailiang Hao, Chaohua Yang, WeiZeng, Jianan Su, Kaixin Shen, jingtong wu, Dugang Liu, Xing Tang, Jingyang Bin, ***Xiuqiang He***, Zhong Ming，in Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD 2026**
 - ***Learning from Cognition: Enhancing RL Efficiency for LLM Reasoning via Hierarchical Metacognitive Decomposition and Refinement***，Zexu Sun, Yongcheng Zeng, Erxue Min, Heyang Gao, Bokai Ji, Dugang Liu, Xing Tang, ***Xiuqiang He***, Xu Chen，in The 64th Annual Meeting of the Association for Computational Linguistics, **ACL 2026**
