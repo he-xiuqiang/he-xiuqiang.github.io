@@ -22,6 +22,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exciting research opportunities, please don't hesitate to reach out to me via email.
 
 <h1 id="-news"><i class="fas fa-bullhorn sec-icon"></i>News</h1>
+- *2026.09* : &nbsp; I will serve on the program committee of ICLR 2027 as a PC Member.
 - *2026.09* : &nbsp; I have been appointed as Vice Dean of the School of Artificial Intelligence, Shenzhen Technology University.
 - *2026.08* : &nbsp; One paper is accepted by CIKM 2026.
 - *2026.07* : &nbsp; One paper is accepted by MM 2026.
