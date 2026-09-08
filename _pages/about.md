@@ -248,6 +248,7 @@ Full paper list available at [My Google Scholar](https://scholar.google.com/cita
 - Huawei Gold Team Award, 2011
 
 <h1 id="-teaching"><i class="fas fa-chalkboard-teacher sec-icon"></i>Teaching</h1>
+- Fall 2026,  ***Fundamentals of Computer and Artificial Intelligence B （计算与人工智能基础B）***
 - Fall 2025,  ***Intelligent Recommender Systems: Application and Practice（智能推荐系统应用与实践）***
   
 <h1 id="-educations"><i class="fas fa-graduation-cap sec-icon"></i>Educations</h1>
