@@ -22,6 +22,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 📣 My group is looking for assistant professors, research assistants and visiting students. If you are interested in joining us and exploring exciting research opportunities, please don't hesitate to reach out to me via email.
 
 <h1 id="-news"><i class="fas fa-bullhorn sec-icon"></i>News</h1>
+- *2026.11* : &nbsp; Five papers are accepted by WSDM 2027.
 - *2026.11* : &nbsp; One paper has been conditionally accepted by ACM Transactions on Information Systems (TOIS).
 - *2026.11* : &nbsp; I will serve on the program committee of IJCAI 2027 as senior program committee member.
 - *2026.10* : &nbsp; I will serve on the program committee of WWW 2027 as an Area Chair.
