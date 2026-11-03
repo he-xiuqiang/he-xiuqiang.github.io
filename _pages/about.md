@@ -65,6 +65,8 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - ***One Value, Multiple Views: Composing Numerical Representations for Click-Through Rate Prediction***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
 - ***OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
 - ***MLBCP: Multi-Layer Bias Cascade Purification for Popularity Bias Mitigation in Large-Scale Recommendations***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
+- ***Hierarchical Differentiated Cross-scenario Sharing for Data-sparse Multi-scenario Recommendation***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
+- ***CFIM: Conditional Feature Importance Modeling for Multi-Scenario Multi-Task Recommendation***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
 
 **Year 2026**
 - ***Retrieve-then-Adapt: Test-Time Retrieval-Augmentation for Sequential Recommendation***, Xing Tang, Jingyang Bin, Ziqiang Cui, Xiaokun Zhang, Fuyuan Lyu, Jingyan Jiang, Dugang Liu, Chen Ma, Ruiming Tang and ***Xiuqiang He***, in Proceedings of the 35th ACM International Conference on Information and Knowledge Management, **CIKM 2026**, <a href="https://arxiv.org/abs/2604.05379" title="arXiv" aria-label="arXiv"><i class="fas fa-external-link-alt"></i></a>
