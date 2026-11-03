@@ -61,6 +61,11 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - *2025.01* : &nbsp; I will serve on the program committee of ECMLPKDD 2025 as a PC member.
 
 <h1 id="-publications"><i class="fas fa-book sec-icon"></i>Publications</h1>
+**Year 2027**
+- ***One Value, Multiple Views: Composing Numerical Representations for Click-Through Rate Prediction***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
+- ***OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
+- ***MLBCP: Multi-Layer Bias Cascade Purification for Popularity Bias Mitigation in Large-Scale Recommendations***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
+
 **Year 2026**
 - ***Retrieve-then-Adapt: Test-Time Retrieval-Augmentation for Sequential Recommendation***, Xing Tang, Jingyang Bin, Ziqiang Cui, Xiaokun Zhang, Fuyuan Lyu, Jingyan Jiang, Dugang Liu, Chen Ma, Ruiming Tang and ***Xiuqiang He***, in Proceedings of the 35th ACM International Conference on Information and Knowledge Management, **CIKM 2026**, <a href="https://arxiv.org/abs/2604.05379" title="arXiv" aria-label="arXiv"><i class="fas fa-external-link-alt"></i></a>
 - ***Controllable Autoregressive Retrieval with Long-term Action Perception for Recommendations***, Jinwei Luo, Dugang Liu, Xing Tang, ***Xiuqiang He***, Renjie Wei, Zhe Wu, Xin Huang, Siliang Huang and Hongcheng Fu, in Proceedings of the 35th ACM International Conference on Information and Knowledge Management, **CIKM 2026**
