@@ -24,7 +24,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 <h1 id="-news"><i class="fas fa-bullhorn sec-icon"></i>News</h1>
 - *2026.11* : &nbsp; Five papers are accepted by WSDM 2027.
 - *2026.11* : &nbsp; One paper has been conditionally accepted by ACM Transactions on Information Systems (TOIS).
-- *2026.11* : &nbsp; I will serve on the program committee of IJCAI 2027 as senior program committee member.
+- *2026.11* : &nbsp; I will serve on the program committee of IJCAI 2027 as SPC member.
 - *2026.10* : &nbsp; I will serve on the program committee of WWW 2027 as an Area Chair.
 - *2026.09* : &nbsp; I will serve on the program committee of ICLR 2027 as a PC Member.
 - *2026.09* : &nbsp; I have been appointed as Vice Dean of the School of Artificial Intelligence, Shenzhen Technology University.
