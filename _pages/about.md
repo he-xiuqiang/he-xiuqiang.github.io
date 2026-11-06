@@ -36,7 +36,25 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - *2026.04* : &nbsp; One paper is accepted by ACL 2026.
 - *2026.04* : &nbsp; Three papers are accepted by SIGIR 2026.
 
-<button id="news-toggle" type="button" onclick="toggleNews()" style="cursor:pointer; margin:0.25em 0 1em; padding:0.35em 1em; border:1px solid #d0d0d0; border-radius:4px; background:#f6f6f6; font-size:0.9em; color:#333;">Show more ▼</button>
+<style>
+#news-toggle {
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 0.6em;
+  padding: 0.4em 1.2em;
+  border: 1px solid #d8dcdf;
+  border-radius: 4px;
+  background: #fff;
+  color: #7a8288;
+  font-size: 0.85em;
+  line-height: 1;
+}
+#news-toggle:hover {
+  border-color: #7a8288;
+  color: #1f2328;
+  background: #f7f8f9;
+}
+</style>
 <div id="news-more" style="display:none;">
 <ul>
 <li><em>2026.02</em> : &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.</li>
@@ -64,16 +82,18 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 </ul>
 </div>
 
+<button id="news-toggle" type="button" onclick="toggleNews()">Show more ▾</button>
+
 <script>
 function toggleNews() {
   var d = document.getElementById('news-more');
   var b = document.getElementById('news-toggle');
   if (d.style.display === 'none') {
     d.style.display = '';
-    b.textContent = 'Show less ▲';
+    b.textContent = 'Show less ▴';
   } else {
     d.style.display = 'none';
-    b.textContent = 'Show more ▼';
+    b.textContent = 'Show more ▾';
   }
 }
 </script>
