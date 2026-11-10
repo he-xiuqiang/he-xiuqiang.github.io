@@ -36,6 +36,30 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 - *2026.05* : &nbsp; One paper is accepted by ICML 2026.
 - *2026.04* : &nbsp; One paper is accepted by ACL 2026.
 - *2026.04* : &nbsp; Three papers are accepted by SIGIR 2026.
+- *2026.02* : &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.
+- *2026.01* : &nbsp; One paper is accepted by ICLR 2026.
+- *2026.01* : &nbsp; One paper is accepted by WWW 2026 industry track.
+- *2025.12* : &nbsp; I have been appointed as Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.
+- *2025.12* : &nbsp; I will serve on the program committee of SIGIR 2026 as an Area Chair.
+- *2025.10* : &nbsp; One paper is accepted by WSDM 2026.
+- *2025.10* : &nbsp; I will serve on the program committee of WWW2026 as PC Member.
+- *2025.09* : &nbsp; World's Top 2 % Scientists by Stanford (2025).
+- *2025.09* : &nbsp; Two papers are accepted by NeurIPS 2025.
+- *2025.09* : &nbsp; 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI (91st worldwide).
+- *2025.09* : &nbsp; I will serve on the program committee of ICLR 2026 as a Reviewer.
+- *2025.08* : &nbsp; I will serve as a member of the CCIR Committee（中国中文信息学会信息检索专委会委员）.
+- *2025.08* : &nbsp; I will serve on the program committee of industry track at WWW2026 as PC Member.
+- *2025.05* : &nbsp; Two papers are accepted by KDD ADS 2025.
+- *2025.04* : &nbsp; Three papers are accepted by ICML 2025.
+- *2025.04* : &nbsp; I will serve on the program committee of NeurIPS 2025 as a PC Member.
+- *2025.04* : &nbsp; Two papers are accepted by SIGIR 2025.
+- *2025.03* : &nbsp; I will serve on the program committee of ACM MM 2025 as an Area Chair.
+- *2025.01* : &nbsp; I will serve on the program committee of IJCAI 2025 as a SPC Member.
+- *2025.01* : &nbsp; I will serve on the program committee of SIGIR 2025 as a PC Member.
+- *2025.01* : &nbsp; I will serve on the program committee of KDD 2025 ADS track as a PC member.
+- *2025.01* : &nbsp; I will serve on the program committee of ECMLPKDD 2025 as a PC member.
+
+<button id="news-toggle" type="button">Show more ▾</button>
 
 <style>
 #news-toggle {
@@ -56,47 +80,36 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
   background: #f7f8f9;
 }
 </style>
-<div id="news-more" style="display:none;">
-<ul>
-<li><em>2026.02</em> : &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.</li>
-<li><em>2026.01</em> : &nbsp; One paper is accepted by ICLR 2026.</li>
-<li><em>2026.01</em> : &nbsp; One paper is accepted by WWW 2026 industry track.</li>
-<li><em>2025.12</em> : &nbsp; I have been appointed as Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.</li>
-<li><em>2025.12</em> : &nbsp; I will serve on the program committee of SIGIR 2026 as an Area Chair.</li>
-<li><em>2025.10</em> : &nbsp; One paper is accepted by WSDM 2026.</li>
-<li><em>2025.10</em> : &nbsp; I will serve on the program committee of WWW2026 as PC Member.</li>
-<li><em>2025.09</em> : &nbsp; World's Top 2 % Scientists by Stanford (2025).</li>
-<li><em>2025.09</em> : &nbsp; Two papers are accepted by NeurIPS 2025.</li>
-<li><em>2025.09</em> : &nbsp; 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI (91st worldwide).</li>
-<li><em>2025.09</em> : &nbsp; I will serve on the program committee of ICLR 2026 as a Reviewer.</li>
-<li><em>2025.08</em> : &nbsp; I will serve as a member of the CCIR Committee（中国中文信息学会信息检索专委会委员）.</li>
-<li><em>2025.08</em> : &nbsp; I will serve on the program committee of industry track at WWW2026 as PC Member.</li>
-<li><em>2025.05</em> : &nbsp; Two papers are accepted by KDD ADS 2025.</li>
-<li><em>2025.04</em> : &nbsp; Three papers are accepted by ICML 2025.</li>
-<li><em>2025.04</em> : &nbsp; I will serve on the program committee of NeurIPS 2025 as a PC Member.</li>
-<li><em>2025.04</em> : &nbsp; Two papers are accepted by SIGIR 2025.</li>
-<li><em>2025.03</em> : &nbsp; I will serve on the program committee of ACM MM 2025 as an Area Chair.</li>
-<li><em>2025.01</em> : &nbsp; I will serve on the program committee of IJCAI 2025 as a SPC Member.</li>
-<li><em>2025.01</em> : &nbsp; I will serve on the program committee of SIGIR 2025 as a PC Member.</li>
-<li><em>2025.01</em> : &nbsp; I will serve on the program committee of KDD 2025 ADS track as a PC member.</li>
-<li><em>2025.01</em> : &nbsp; I will serve on the program committee of ECMLPKDD 2025 as a PC member.</li>
-</ul>
-</div>
-
-<button id="news-toggle" type="button" onclick="toggleNews()">Show more ▾</button>
 
 <script>
-function toggleNews() {
-  var d = document.getElementById('news-more');
-  var b = document.getElementById('news-toggle');
-  if (d.style.display === 'none') {
-    d.style.display = '';
-    b.textContent = 'Show less ▴';
-  } else {
-    d.style.display = 'none';
-    b.textContent = 'Show more ▾';
+(function () {
+  var VISIBLE = 15;
+  var heading = document.getElementById('-news');
+  var toggle = document.getElementById('news-toggle');
+  if (!heading || !toggle) { return; }
+  var list = heading.nextElementSibling;
+  if (!list || list.tagName !== 'UL') { return; }
+  var items = list.children;
+
+  function setCollapsed(collapsed) {
+    for (var i = VISIBLE; i < items.length; i++) {
+      items[i].style.display = collapsed ? 'none' : '';
+    }
+    toggle.textContent = collapsed ? 'Show more ▾' : 'Show less ▴';
+    toggle.setAttribute('data-collapsed', collapsed ? 'true' : 'false');
   }
-}
+
+  if (items.length <= VISIBLE) {
+    toggle.style.display = 'none';
+    return;
+  }
+
+  setCollapsed(true);
+
+  toggle.addEventListener('click', function () {
+    setCollapsed(toggle.getAttribute('data-collapsed') !== 'true');
+  });
+})();
 </script>
 
 <h1 id="-publications"><i class="fas fa-book sec-icon"></i>Publications</h1>
