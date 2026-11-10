@@ -20,44 +20,44 @@ redirect_from:
 Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of Artificial Intelligence](https://ai.sztu.edu.cn/), Vice Dean of the School of Artificial Intelligence, Dean of the Institute of Artificial Intelligence Technology, [Shenzhen Technology University (SZTU)](https://www.sztu.edu.cn/). He serves as a member of the Professional Committee on Information Retrieval of the Chinese Information Processing Society of China (CIPS), and was named among the World's Top 2% Scientists (2025) released by Stanford University. His research interests include recommendation systems, information retrieval, online marketing and advertisement, AI for science, and the application of artificial intelligence in real-world scenarios. Prior to his appointment at SZTU, he served as a Senior Director at FiT, Tencent from 2022 to 2024. Before that, he was the Director of the Recommendation and Search Lab at Huawei Noah's Ark Laboratory. He earned his Ph.D. from [the Department of Computer science and Engineering](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2010. He obtained his Master's degree in 2006 and Bachelor's degree in 2003, both from [Xi’an JiaoTong University (XJTU)](https://www.xjtu.edu.cn/). He has published over 130 research papers in top-tier international conferences and journals, and his publications have amassed over 13,000 citations on Google Scholar. He is among the authors of DeepFM, which is one of the most widely used click-through rate prediction algorithms in industry. He was honored with the Best Paper Award at DLP-KDD 2021. Additionally, he holds over 60 families of domestic or international patents. 
 
 <h1 id="-news"><i class="fas fa-bullhorn sec-icon"></i>News</h1>
-- *2026.11* : &nbsp; One paper is accepted by KDD 2027 Datasets and Benchmarks Track.
-- *2026.11* : &nbsp; Five papers are accepted by WSDM 2027.
-- *2026.11* : &nbsp; One paper has been conditionally accepted by ACM Transactions on Information Systems (TOIS).
-- *2026.11* : &nbsp; I will serve on the program committee of IJCAI 2027 as SPC member.
-- *2026.10* : &nbsp; I will serve on the program committee of WWW 2027 as an Area Chair.
-- *2026.09* : &nbsp; I will serve on the program committee of ICLR 2027 as a PC Member.
-- *2026.09* : &nbsp; I have been appointed as Vice Dean of the School of Artificial Intelligence, Shenzhen Technology University.
-- *2026.08* : &nbsp; One paper is accepted by CIKM 2026.
-- *2026.07* : &nbsp; One paper is accepted by MM 2026.
-- *2026.07* : &nbsp; One paper is accepted by RecSys 2026.
-- *2026.07* : &nbsp; I will serve on the program committee of SIGIR-AP 2026 as a senior PC member.
-- *2026.06* : &nbsp; I have been appointed as Deputy Chair of the Fourth Professors Committee of Shenzhen Technology University.
-- *2026.05* : &nbsp; Two papers are accepted by KDD Ads 2026.
-- *2026.05* : &nbsp; One paper is accepted by ICML 2026.
-- *2026.04* : &nbsp; One paper is accepted by ACL 2026.
-- *2026.04* : &nbsp; Three papers are accepted by SIGIR 2026.
-- *2026.02* : &nbsp; I will serve on the program committee of MM 2026 as an Area Chair.
-- *2026.01* : &nbsp; One paper is accepted by ICLR 2026.
-- *2026.01* : &nbsp; One paper is accepted by WWW 2026 industry track.
-- *2025.12* : &nbsp; I have been appointed as Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.
-- *2025.12* : &nbsp; I will serve on the program committee of SIGIR 2026 as an Area Chair.
-- *2025.10* : &nbsp; One paper is accepted by WSDM 2026.
-- *2025.10* : &nbsp; I will serve on the program committee of WWW2026 as PC Member.
-- *2025.09* : &nbsp; World's Top 2 % Scientists by Stanford (2025).
-- *2025.09* : &nbsp; Two papers are accepted by NeurIPS 2025.
-- *2025.09* : &nbsp; 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI (91st worldwide).
-- *2025.09* : &nbsp; I will serve on the program committee of ICLR 2026 as a Reviewer.
-- *2025.08* : &nbsp; I will serve as a member of the CCIR Committee（中国中文信息学会信息检索专委会委员）.
-- *2025.08* : &nbsp; I will serve on the program committee of industry track at WWW2026 as PC Member.
-- *2025.05* : &nbsp; Two papers are accepted by KDD ADS 2025.
-- *2025.04* : &nbsp; Three papers are accepted by ICML 2025.
-- *2025.04* : &nbsp; I will serve on the program committee of NeurIPS 2025 as a PC Member.
-- *2025.04* : &nbsp; Two papers are accepted by SIGIR 2025.
-- *2025.03* : &nbsp; I will serve on the program committee of ACM MM 2025 as an Area Chair.
-- *2025.01* : &nbsp; I will serve on the program committee of IJCAI 2025 as a SPC Member.
-- *2025.01* : &nbsp; I will serve on the program committee of SIGIR 2025 as a PC Member.
-- *2025.01* : &nbsp; I will serve on the program committee of KDD 2025 ADS track as a PC member.
-- *2025.01* : &nbsp; I will serve on the program committee of ECMLPKDD 2025 as a PC member.
+- *2026.11:* One paper is accepted by KDD 2027 Datasets and Benchmarks Track.
+- *2026.11:* Five papers are accepted by WSDM 2027.
+- *2026.11:* One paper has been conditionally accepted by ACM Transactions on Information Systems (TOIS).
+- *2026.11:* I will serve on the program committee of IJCAI 2027 as SPC member.
+- *2026.10:* I will serve on the program committee of WWW 2027 as an Area Chair.
+- *2026.09:* I will serve on the program committee of ICLR 2027 as a PC Member.
+- *2026.09:* I have been appointed as Vice Dean of the School of Artificial Intelligence, Shenzhen Technology University.
+- *2026.08:* One paper is accepted by CIKM 2026.
+- *2026.07:* One paper is accepted by MM 2026.
+- *2026.07:* One paper is accepted by RecSys 2026.
+- *2026.07:* I will serve on the program committee of SIGIR-AP 2026 as a senior PC member.
+- *2026.06:* I have been appointed as Deputy Chair of the Fourth Professors Committee of Shenzhen Technology University.
+- *2026.05:* Two papers are accepted by KDD Ads 2026.
+- *2026.05:* One paper is accepted by ICML 2026.
+- *2026.04:* One paper is accepted by ACL 2026.
+- *2026.04:* Three papers are accepted by SIGIR 2026.
+- *2026.02:* I will serve on the program committee of MM 2026 as an Area Chair.
+- *2026.01:* One paper is accepted by ICLR 2026.
+- *2026.01:* One paper is accepted by WWW 2026 industry track.
+- *2025.12:* I have been appointed as Dean of the Institute of Artificial Intelligence Technology, Shenzhen Technology University.
+- *2025.12:* I will serve on the program committee of SIGIR 2026 as an Area Chair.
+- *2025.10:* One paper is accepted by WSDM 2026.
+- *2025.10:* I will serve on the program committee of WWW2026 as PC Member.
+- *2025.09:* World's Top 2 % Scientists by Stanford (2025).
+- *2025.09:* Two papers are accepted by NeurIPS 2025.
+- *2025.09:* 2025 AI 2000 Most Influential Scholar Award Honorable Mention in AAAI/IJCAI (91st worldwide).
+- *2025.09:* I will serve on the program committee of ICLR 2026 as a Reviewer.
+- *2025.08:* I will serve as a member of the CCIR Committee（中国中文信息学会信息检索专委会委员）.
+- *2025.08:* I will serve on the program committee of industry track at WWW2026 as PC Member.
+- *2025.05:* Two papers are accepted by KDD ADS 2025.
+- *2025.04:* Three papers are accepted by ICML 2025.
+- *2025.04:* I will serve on the program committee of NeurIPS 2025 as a PC Member.
+- *2025.04:* Two papers are accepted by SIGIR 2025.
+- *2025.03:* I will serve on the program committee of ACM MM 2025 as an Area Chair.
+- *2025.01:* I will serve on the program committee of IJCAI 2025 as a SPC Member.
+- *2025.01:* I will serve on the program committee of SIGIR 2025 as a PC Member.
+- *2025.01:* I will serve on the program committee of KDD 2025 ADS track as a PC member.
+- *2025.01:* I will serve on the program committee of ECMLPKDD 2025 as a PC member.
 
 <button id="news-toggle" type="button">Show more ▾</button>
 
@@ -65,6 +65,14 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 #-news + ul {
   list-style: none;
   padding-inline-start: 0;
+}
+#-news + ul li {
+  display: flex;
+  align-items: baseline;
+}
+#-news + ul li em {
+  flex: none;
+  margin-right: 0.6em;
 }
 #news-toggle {
   cursor: pointer;
