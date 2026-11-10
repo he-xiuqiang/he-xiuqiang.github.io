@@ -62,6 +62,10 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 <button id="news-toggle" type="button">Show more ▾</button>
 
 <style>
+#-news + ul {
+  list-style: none;
+  padding-inline-start: 0;
+}
 #news-toggle {
   cursor: pointer;
   display: inline-block;
