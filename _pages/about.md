@@ -21,6 +21,7 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the College of A
 
 <h1 id="-news"><i class="fas fa-bullhorn sec-icon"></i>News</h1>
 - *2026.11* : &nbsp; Five papers are accepted by WSDM 2027.
+- *2026.11* : &nbsp; One paper is accepted by KDD 2027 Datasets and Benchmarks Track.
 - *2026.11* : &nbsp; One paper has been conditionally accepted by ACM Transactions on Information Systems (TOIS).
 - *2026.11* : &nbsp; I will serve on the program committee of IJCAI 2027 as SPC member.
 - *2026.10* : &nbsp; I will serve on the program committee of WWW 2027 as an Area Chair.
@@ -105,6 +106,7 @@ function toggleNews() {
 - ***MLBCP: Multi-Layer Bias Cascade Purification for Popularity Bias Mitigation in Large-Scale Recommendations***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
 - ***Hierarchical Differentiated Cross-scenario Sharing for Data-sparse Multi-scenario Recommendation***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
 - ***CFIM: Conditional Feature Importance Modeling for Multi-Scenario Multi-Task Recommendation***, in Proceedings of the 20th ACM International Conference on Web Search and Data Mining, **WSDM 2027**
+- ***MMCTR-Bench: A Comprehensive and Diagnostic Benchmark for Multimodal Click-Through Rate Prediction***, Kailiang Hao, Chaohua Yang, Xiongda Chen, Jintao Huang, Yonglin Wei, Dugang Liu, Xing Tang, ***Xiuqiang He***, Zhong Ming, in Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (Datasets and Benchmarks Track), **KDD 2027**
 
 **Year 2026**
 - ***Retrieve-then-Adapt: Test-Time Retrieval-Augmentation for Sequential Recommendation***, Xing Tang, Jingyang Bin, Ziqiang Cui, Xiaokun Zhang, Fuyuan Lyu, Jingyan Jiang, Dugang Liu, Chen Ma, Ruiming Tang and ***Xiuqiang He***, in Proceedings of the 35th ACM International Conference on Information and Knowledge Management, **CIKM 2026**, <a href="https://arxiv.org/abs/2604.05379" title="arXiv" aria-label="arXiv"><i class="fas fa-external-link-alt"></i></a>
