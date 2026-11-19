@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiuqiang He（何秀强） is now a Distinguished Professor at [the School of Artificial Intelligence](https://ai.sztu.edu.cn/), Vice Dean of the School of Artificial Intelligence, Dean of the Institute of Artificial Intelligence Technology, [Shenzhen Technology University (SZTU)](https://www.sztu.edu.cn/). He serves as a member of the Professional Committee on Information Retrieval of the Chinese Information Processing Society of China (CIPS), and was named among the World's Top 2% Scientists (2025) released by Stanford University. His research interests include recommendation systems, information retrieval, online marketing and advertisement, AI for science, and the application of artificial intelligence in real-world scenarios. Prior to his appointment at SZTU, he served as a Senior Director at FiT, Tencent from 2022 to 2024. Before that, he was the Director of the Recommendation and Search Lab at Huawei Noah's Ark Laboratory. He earned his Ph.D. from [the Department of Computer science and Engineering](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2010. He obtained his Master's degree in 2006 and Bachelor's degree in 2003, both from [Xi’an JiaoTong University (XJTU)](https://www.xjtu.edu.cn/). He has published over 130 research papers in top-tier international conferences and journals, and his publications have amassed over 13,000 citations on Google Scholar. He is among the authors of DeepFM, which is one of the most widely used click-through rate prediction algorithms in industry. He was honored with the Best Paper Award at DLP-KDD 2021. Additionally, he holds over 60 families of domestic or international patents. 
+Xiuqiang He（何秀强） is now a Distinguished Professor at [the School of Artificial Intelligence](https://ai.sztu.edu.cn/), Vice Dean of the School of Artificial Intelligence, Dean of the Institute of Artificial Intelligence Technology, [Shenzhen Technology University (SZTU)](https://www.sztu.edu.cn/). He serves as a member of the Professional Committee on Information Retrieval of the Chinese Information Processing Society of China (CIPS), and was named among the World's Top 2% Scientists (2025) released by Stanford University. His research interests include recommendation systems, information retrieval, online marketing and advertisement, AI for science, and the application of artificial intelligence in real-world scenarios. Prior to his appointment at SZTU, he served as a Senior Director at FiT, Tencent from 2022 to 2024. Before that, he was the Director of the Recommendation and Search Lab at Huawei Noah's Ark Laboratory. He earned his Ph.D. from [the Department of Computer science and Engineering](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2010. He obtained his Master's degree in 2006 and Bachelor's degree in 2003, both from [Xi’an JiaoTong University (XJTU)](https://www.xjtu.edu.cn/). He has published over 130 research papers in top-tier international conferences and journals, and his publications have amassed <span id="citation-count">11,517</span> citations on OpenAlex. He is among the authors of DeepFM, which is one of the most widely used click-through rate prediction algorithms in industry. He was honored with the Best Paper Award at DLP-KDD 2021. Additionally, he holds over 60 families of domestic or international patents. 
 
 <h1 id="-news"><i class="fas fa-bullhorn sec-icon"></i>News</h1>
 - *2026.11:* One paper is accepted by KDD 2027 Datasets and Benchmarks Track.
@@ -122,6 +122,21 @@ Xiuqiang He（何秀强） is now a Distinguished Professor at [the School of Ar
   toggle.addEventListener('click', function () {
     setCollapsed(toggle.getAttribute('data-collapsed') !== 'true');
   });
+})();
+</script>
+
+<script>
+(function () {
+  var el = document.getElementById('citation-count');
+  if (!el) { return; }
+  fetch('https://api.openalex.org/authors/A5083350101')
+    .then(function (r) { return r.json(); })
+    .then(function (d) {
+      if (d && d.cited_by_count) {
+        el.textContent = Number(d.cited_by_count).toLocaleString('en-US');
+      }
+    })
+    .catch(function () { /* keep fallback */ });
 })();
 </script>
 
