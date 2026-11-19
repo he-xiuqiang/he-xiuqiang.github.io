@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiuqiang He"
   avatar           : "images/hexiuqiang2.png"
-  bio              : "&bull; Distinguished Professor, School of Artificial Intelligence<br>&bull; Vice Dean, School of Artificial Intelligence<br>&bull; Dean, Institute of Artificial Intelligence Technology<br>Shenzhen Technology University (SZTU)"
+  bio              : "<ul class='author__bio-list'><li>Distinguished Professor, School of Artificial Intelligence</li><li>Vice Dean, School of Artificial Intelligence</li><li>Dean, Institute of Artificial Intelligence Technology</li></ul><div class='author__bio-university'>Shenzhen Technology University (SZTU)</div>"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 

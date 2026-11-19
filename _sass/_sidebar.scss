@@ -145,6 +145,21 @@
   }
 }
 
+.author__bio-list {
+  margin: 0;
+  padding-inline-start: 1.25em;
+  list-style: disc;
+}
+
+.author__bio-list li {
+  margin-bottom: 0.2em;
+  line-height: 1.3;
+}
+
+.author__bio-university {
+  margin-top: 0.3em;
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
